@@ -1,0 +1,21 @@
+# Entornos y cachés de Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Credenciales y configuración local
+.env
+.env.*
+!.env.example
+
+# Archivos generados por los scripts
+guarani_db/
+resultados/
+
+# Editores y sistema operativo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

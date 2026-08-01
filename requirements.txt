@@ -1,0 +1,17 @@
+pandas
+sacrebleu
+python-dotenv
+tqdm
+chromadb
+sentence-transformers
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-chroma
+langchain-openai
+langchain-google-genai
+langchain-groq
+langchain-mistralai
+langchain-deepseek
+langchain-anthropic

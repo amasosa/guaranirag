@@ -1,0 +1,2882 @@
+﻿
+GRAMÁTICA GUARANÍ
+y orientaciones básicas para la escritura de los nombres toponímicos en guaraní
+y otras terminologías
+
+4ª Edición 2023
+
+
+
+
+Asunción, Paraguay
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PRIMER CAPÍTULO
+
+CARACTERÍSTICAS GENERALES DE LA LENGUA GUARANÍ
+
+       Por su condición de lengua aglutinante, el guaraní expresa su relación gramatical mediante la utilización de afijos, generalmente en torno de un núcleo y puede generar vocablos de varias sílabas formadas por la yuxtaposición de morfemas.
+       El guaraní enfatiza la función de los vocablos por encima de las categorías gramaticales. Los vocablos del idioma guaraní son polifuncionales, pueden emplearse en cualquier función gramatical, según las necesidades del hablante.
+       Por ejemplo, "vai" es adjetivo en ára vai, es verbo en ombovai y adverbio en oguata vai.
+       Asimismo, los afijos determinados, según su ubicación, generarán nuevos significados junto a las raíces, a las cuales se unen, formando de este modo, palabras nuevas.
+       Por ejemplo, el morfema mbo/mo al unirse al lexema guata forma la palabra mboguata que significa ‘conducir’, y no "caminar".
+       En la estructura sintáctica, el poseedor precede a la cosa poseída, y en vez de preposición el guaraní utiliza posposición.
+Ejemplos:
+Che ka misa. "Mi camisa".
+Susána róga. "La casa de Susana". 
+Óga pepo. "Alero de la casa".
+Akãme. "En la cabeza".
+Mbo’ehaópe. "En la escuela".
+
+El guaraní no tiene artículos como categoría léxica.
+Características principales de la lengua guarani
+       Muchas de las características del guaraní del Paraguay, son compartidas con las lenguas de la misma familia. Sin embargo, la variedad paraguaya ha desarrollado algunos mecanismos evolutivos propios, que la diferencian de las otras.
+      Fonema gutural /Y-y/
+Uno de los sonidos característicos de la lengua guaraní, constituye la vocal gutural representada por el grafema /y/, considerada sexta vocal oral en el alfabeto oficial del guaraní paraguayo (fonema i).
+      Fonema gutonasal /Ỹ-ỹ/
+Constituye la sexta vocal nasal del alfabeto guaraní.
+      La nasalidad
+       Uno de los rasgos principales de identidad de la lengua guaraní es su nasalidad. Existen fonemas orales y nasales, y el empleo de uno u otro en una misma posición de palabra puede variar el significado del vocablo.
+Ejemplos:
+Puru’a/puru’ã, pyta/pytã, teta/tetã.
+
+       Sílaba directa
+       La lengua guaraní, no tiene sílabas trabadas, ni dos o más consonantes consecutivas en sus voces o vocablos, excepto en los dígrafos ch, mb, nd, ng, nt, rr, que se consideran letras del alfabeto y no grupos consonánticos; constituyen como un solo grafema o letra: El mecanismo se aplica, igualmente, a los primeros préstamos del castellano, como almidón>aramirõ, cabra >kavara y conserva>kosereva.
+
+      Cambios al final de los vocablos
+       Una serie de cambios morfológicos, concentrados en la posición final de vocablos, ha caracterizado el proceso evolutivo del guaraní. Se trata de supresiones de segmentos finales de palabras, de sílabas o fonemas, que a su vez ha desencadenado otros cambios afines, sumando una cadena de innovaciones que ha desarrollado la lengua, en relación con las demás variedades.
+
+      Supresión de la sílaba posterior a la tónica
+       Consiste en suprimir, dentro de la estructura de una palabra, la parte que sigue a la vocal tónica o vocal acentuada oralmente.
+       Por ejemplo, el vocablo jaguára es todavía una forma propia de una variedad guaraní indígena del norte, que en el guaraní paraguayo es jagua, sin la sílaba final ra. El mismo procedimiento se observa en una gran cantidad de vocablos, como: membýra=memby, kapi’yvára >kapi’yva.
+
+      La tendencia oxítona
+       El avañe’ẽ posee una fuerte tendencia a reducir el número de sílabas de las palabras de otras variedades, por la supresión de la sílaba o sílabas que siguen a la vocal acentuada. La mayoría de las palabras en guaraní son agudas, por eso no se tilda.
+       Ejemplos: ñe’ẽnqáva/ñe’ẽnqa, mandi’óka/mandi’o.
+       Nasales inducidas
+Numerosas palabras llanas cuya última consonante era la /ml, la /n/ o la /ng/ en los dialectos del norte, como los karaive y ñe’ẽnqatu, al ser apocopadas en el avañe’é cario del sur, y en la actualidad en el guaraní, nasalizaron la sílaba final. Con este mecanismo, la palabra se vuelve nasal.
+Ejemplos: amána/ama, húna/hũ, murutínga/morotĩ, Tupána/Tupã.
+
+
+       La supresión de las consonantes finales
+       En el guaraní actual, no existen palabras con terminación consonántica. Este fenómeno se registra desde el guaraní cario. Muchas formas que mantenían aún la consonante final, tales como perereg, peteg, pepeg, pocog, añag o añang, perdieron su consonante final y se convirtieron en perere, pete, pepe, poko, aña.
+       La supresión de las consonantes finales de palabras forma parte de la misma tendencia innovadora del guaraní paraguayo. Sin embargo, cuando se trata de palabras monosílabas terminadas en consonante, no se suprime la misma, sino que se le adiciona una vocal posterior, como en og > óga, kog > kóga, y las palabras se vuelven llanas.
+       
+      Consonante fugitiva
+       El guaraní evoluciona y se transforma como toda lengua. Un fenómeno que ocurre desde hace tiempo, la caída de la consonante "V" en posición medial, está modificando la estructura silábica del guaraní. También se está observando el mismo fenómeno, cada vez más creciente, con las consonantes "k" y "ng". La escritura correcta es menester en la gramática.
+Ejemplos:
+Aipóva    aipóa
+Umíva    umía
+Piko       pio
+Ningo    nio
+
+      La negación es discontinua
+
+La negación se hace con un elemento discontinuo, porque se antepone y se pospone al lexema verbal. Se presentan separados sus elementos. Las variaciones de la negación pueden deberse al fenómeno de la armonización nasal o vocálica.
+
+       Las partículas de negación
+       Las prefijas son:
+       nd (con vocablos orales)
+        n (con vocablos nasales)
+       Las sufijas son:
+       i (con vocablos terminados en cualquier vocal, excepto la "i")
+       ri (con vocablos terminados en "i")
+       Ejemplos: ndojapói – nosẽi - noñaníri.
+       Usa como núcleo la forma afirmativa y se le yuxtaponen las partículas de negación prefija y sufija.
+
+       La suspensión glotal "puso" (’)
+       Otro de los rasgos propios de esta lengua constituye la consonante oclusiva glotal pusó del sistema fonológico guaraní.
+       Junto con la nasalidad, ha sido descrito desde las primeras gramáticas de la lengua, y su representación gráfica ha variado en las distintas épocas de transcripción del guaraní. Su realización consiste en una pausa breve, producida por la obstrucción del flujo de aire en la glotis, antes de la pronunciación de la vocal con la que forma sílaba.
+Ejemplos:
+He’õ, ka’ẽ, ka’i, ku’a, ma’ẽ, ñe’ẽ, pa’ã, pa’i, pe’a, pe’o, po’a, py’a.
+
+       La repetición
+       Existe una gran cantidad de formas de comunicación no verbal, muchas de ellas difíciles de reproducirse por escrito. Entre estos rasgos, la entonación es uno de los más importantes, porque puede llegar a cambiar el significado completo de una expresión.
+       Otro recurso de este mismo tipo es la reduplicación de formas, que ha generado en la lengua un importante caudal de voces.
+       Como  Ejemplos: jaguataguata,  jo’ajo’a,  mimi,  peteĩteĩ, mokõimokõi, pokãpokã, tuichaicha, sa’isa’i
+Al repetirse los vocablos, tienen otro significado.
+
+       La onomatopeya
+       Es un mecanismo en la formación de palabras en la lengua guaraní en la cual ha generado un considerable caudal de vocablos.
+       Algunas palabras se han formado a imitación de ruidos o sonidos, como chyryry, guarara, mbota, pararã, perere, pitohẽ. Otras palabras describen un movimiento o acción, como konikoni, mymýi, sambosambo, syry, sysýi, tyryry, vava, mumu.
+       Algunas se relacionan con sensaciones: tytýi, jehýi o son visuales, tales como jajái, pititĩ, pepe, perepere.
+       
+       Los préstamos
+       La lengua guaraní ha recurrido a los préstamos lingüísticos a lo largo de su historia, y principalmente de palabras provenientes del castellano, que adoptan los hablantes del Paraguay por el mayor contacto bilingüe que existe en el país, con esa lengua.
+       Existen préstamos de una sola palabra, así como aquellos se constituyen con grupos sintácticos o frases insertadas dentro del discurso.
+       Los préstamos más antiguos están adaptados a la morfología del guaraní y deben escribirse según la ortografía de esta lengua.
+       Por ejemplo, cabra/kavara.
+
+       Los cambios eufónicos
+       En la lengua guaraní la eufonía adquiere gran relevancia, por lo que hay numerosos casos de adaptación de fonemas en determinadas posiciones de palabras, para evitar cacofonía.
+
+       - La armonización nasal
+       En la lengua guaraní, con frecuencia las palabras cambian un fonema oral por otro nasal, para adaptarse al sonido de la forma con la cual se une, sea palabra, partícula o sílaba.
+       Cuando los sufijos que contienen dichas consonantes se unen a una raíz o núcleo nasal, producen cambios de sonido.
+       Ejemplos:
+       /jo/ a /ño/ en johecha, ñohetũ;
+       /nd/ a /n/; en nde juru, ne tĩ
+       /pe/ a /me/, en Ka’aquýpe, ñúme.
+       /pa/ a /mba/, en ohopa, osẽmba
+       Son cambios meramente eufónicos cuando:
+       la /k/ cambia a /ng/; karai se convierte en mongarai y no mbokarai;
+       la /s/ cambia a /nd/; soro se convierte en mondoro, y no en mbosoro. 
+       la /t/ cambia a /nd/; tyky se convierte en mondyky, y no mbotyky.
+       Las vocales eufónicas
+       Son vocales que se introducen entre dos consonantes, resultantes de la unión de dos elementos, donde uno termina en consonante y el otro inicia con ella.
+       La función de la vocal agregada consiste en crear la sílaba directa, característica del silabario guaraní.
+       Este tipo de agregado es más propio en la forma negativa, que se realiza a partir de la forma afirmativa.
+       Ejemplos:
+       Afirmativa: rejapo
+       Negativa: nderejapói. Nd-e-rejapó-i
+       La "e" intermedia tiene una función meramente eufónica.
+
+       
+       La armonización glotal
+       Verbos con "h" inicial, significa que en el lexema existe una consonante inicial glotal (’). Dicha consonante es la que produce la armonización con "h" inicial.
+Ejemplos:
+’u (comer); ha’u, ho’u
+’e (decir); ha’e, he’i
+’a (caer); ha’a, ho’a.
+       Corresponde también escribir el pusó como inicial de lexema en casos en que se constata su presencia en esa posición, sea en palabras originarias del guaraní o en préstamos integrados al sistema.
+       Ejemplos:
+       ’y: hi’y
+ 	’ára: hi’ára
+SEGUNDO CAPÍTULO
+REGLAS ORTOGRÁFICAS DE LA LENGUA GUARANI
+
+       La lengua guaraní se puede escribir correctamente y de modo uniforme, por medio de cuatro reglas ortográficas. Estas reglas fueron aprobadas por la Academia de la Lengua Guaraní en sesión de fecha 10 de agosto de 2016 y quedaron establecidas como sigue:
+
+1. Primera regla: del alfabeto oficial
+       La lengua guaraní tiene 33 fonemas propios que se representan por medio de 33 grafemas o letras que son:
+       A a, Ã ã, Ch ch, E e, Ẽ ẽ, G g, G̃ g̃, H h, I i, Ĩ ĩ, J j, K k, L l, M m, Mb mb, N n, Nd nd, Ng ng, Nt nt, Ñ ñ, O o, Õ õ, P p, R r, Rr rr, S s, T t, U u, Ũ ũ, V v, Y y, Ỹ ỹ, ’(Puso).
+       La Academia de la lengua establece, igualmente, el uso de las letras D d, F f, y LL ll, para escribir palabras provenientes de otras lenguas, una vez reglamentadas.
+       En este alfabeto oficial no existen letras mudas, ni con doble función. Tampoco existen fonemas que se representan por medio de más de una letra. Los dígrafos o letras bilíteras representan una sola letra.
+
+2. Segunda regla: del uso de la tilde acentual ( ´ )
+       Para el uso de la tilde acentual (acento gráfico), la lengua guaraní considera la vocal tónica o la de mayor intensidad.
+       No se debe usar, en ningún caso la tilde acentual cuando la vocal tónica se halla ubicada al final de la palabra.
+       Ejemplos: Guata, ñani, ao.
+       Sin embargo, cuando se halla ubicada antes del final se debe usar indefectiblemente.
+       Ejemplos: ára, purahéi.
+       Si en una palabra existen dos o más vocales tónicas, la tilde debe marcarse sobre la tónica de la derecha, siempre que no sea vocal final. Ejemplo: mbo’ehára.
+       Sobre las vocales nasales no se usa la tilde acentual. Ejemplos: Mokõi, ko’ẽrõ, akãme.
+       La palabra puede llevar solamente una tilde acentual y la misma es móvil, se desplaza según las partículas que se le adiciona.
+       Ejemplos: pirapire, pirapirére, oñembopirapirevéta.
+
+La presente regla tiene como adicional complementaria la regla del acento tonal.
+
+3. Tercera regla: de la formación de sílabas nasales
+   No concurren en la sílaba dos letras nasales.
+   Ejemplos: g̃ua, ma, ne, ña.
+   Cuando la vocal oral (a, e, i, o, u, y) forma sílaba con consonantes nasales (g̃, m, n, ñ) o naso-orales (mb, nd, ng, nt) queda nasalizada por dichas consonantes.
+   Ejemplo: ma, nda.
+   Cuando la vocal nasal (ã,ẽ,ĩ,õ,ũ,ỹ) forma sílaba con consonante oral (ch, g, h, j, k, 1, p, r, rr, s, t, v,’ (puso) dicha sílaba es nasal.
+   Ejemplo: tã: pytã.
+4. Cuarta regla: de la formación de palabras
+       En guaraní el hablante construye su propia palabra. Lo hace uniendo partículas al lexema base con contenido semántico. En la escritura, las partículas prefijas y sufijas que modifican al lexema base, se unen al mismo formando con él un segmento de la cadena escrita, considerada como la palabra.
+       Ejemplo: Oporogueroguataseténiko.
+       Algunas partículas pueden desprenderse y ubicarse antes o después del lexema base, en esos casos, no se unen.
+       Ejemplo: Cheakãhatãitémi, etémi cheakãhatã,
+       Otras pueden aparecer en el texto en ausencia de su regente.
+       Ejemplos:
+       Upéva oikomo’ãkuri. Upévamo’ãkuri, 
+       
+       
+       
+       Las posposiciones monosilábicas van unidas a su regente.
+       Ejemplos:
+       Oúre (Apócope de "ou rehe" )
+       Amógui
+       Las posposiciones polisilábicas no van unidas a su regente.
+       Ejemplo: 
+       Ou rehe
+        	amo guive
+
+TERCER CAPÍTULO
+LAS CATEGORÍAS GRAMATICALES
+
+       Se reconocen en la lengua guaraní ocho categorías gramaticales: sustantivo, adjetivo, verbo, adverbio, pronombre, conjunción, interjección y posposición.
+       El sustantivo: Es la principal categoría en guaraní. Nombra personas (mitakuña), animales (jagua), cosas (yvy), vegetales (tajy) y otras entidades.
+       El sustantivo es polifuncional, por lo cual puede emplearse como verbo y ser conjugado. Por ejemplo, en la forma propia de expresar el sustantivo, va implícita la conjugación y la forma verbal.
+       Ejemplos: chemitã, chekane’õ
+       Por otra parte, un núcleo verbal puede tener función sustantiva con los prefijos temi- remi- hemi-. Por ejemplo, el verbo mbo’e se convierte en sustantivo si se le antepone "temi", y se tiene temimbo’e (alumno)
+       El adjetivo: Es la palabra que califica o determina al sustantivo; expresa características o propiedades atribuidas a un sustantivo.
+       Ejemplos:
+       Óga guasu. 
+       Pe óga
+
+       El verbo: Categoría gramatical que expresa acción, movimiento, pasión o estado. El verbo guaraní se caracteriza por su polifuncionalidad. El núcleo o raíz sufre modificaciones a través de partículas. El verbo conjugado concuerda en persona y número con el sujeto.
+       Ejemplos:
+       Che aguata, nde reguata
+
+
+
+       El adverbio: Es la palabra que sirve para modificar a un verbo, a un adjetivo o a otro adverbio.
+       Ejemplos:
+       Oguata pya’e
+       Mandi’o morotĩ porã
+       Oho mbeguekatu asy.
+       Finalmente, están los instrumentos gramaticales, coordinantes o conectores que son:
+       El pronombre: El pronombre es la palabra que sustituye al nombre y que posee significado en sí mismo.
+       Ejemplo: Che ajogua peteĩ óga
+       La conjunción: Constituye una palabra invariable que conecta o relaciona entre sí vocablos, frases u oraciones.
+       Ejemplo:
+       Nde ha che ñañomongetáta
+       La interjección: expresión que sirve para demostrar susto, alegría, sorpresa, y otros estados o cambios súbitos del ánimo.
+       Ejemplo:
+       Cháke, pe mbói!
+       La posposición: Es un elemento que relaciona una palabra o expresión con otra, que se emplea siempre en posición posterior, para darle sentido completo y aportar claridad a la expresión. Las monosilábicas se escriben unidas a la palabra, las polisilábicas se escriben separadas.
+       Ejemplos:
+       Aháta Ka’akupépe 
+       Ohecha mombyry guive
+Aspectos morfosintácticos
+       La Morfología es la parte de la gramática que estudia la forma o estructura de las palabras y de sus elementos constitutivos.
+       Los afijos se ubican en un lugar predeterminado, según el sentido que se quiera dar al mensaje. El afijo tiene una posición determinada respecto de otros afijos, para darle el sentido deseado a la palabra constituida.
+       Ejemplo:
+       En aguatasékuri; los sufijos "se" y "kuri" están en una posición predeterminada, y el orden no puede variar.
+       Monemas. Hay dos tipos de monemas según la autonomía y la capacidad de ser interpretados semánticamente, ellos son: los lexemas y los morfemas.
+       Lexemas: Los lexemas son monemas de significado léxico concreto y autónomo, que constituyen una base invariable de las palabras sobre las que actúan o se añaden el resto de los monemas.
+       Por ejemplo, en la expresión: Arosapukaise, el lexema es "sapukái" porque contiene la idea o el significado.
+       Morfemas: Son las formas mínimas dotadas de significación, compuestas de uno o varios fonemas, y que son los elementos constitutivos del habla. Existen dos tipos de morfemas:
+       - Los morfemas independientes o libres no necesitan unirse a ningún lexema, sino que forman por sí solos una palabra. Ellos son las posposiciones polisilábicas, los determinantes, las conjunciones, los pronombres y las interjecciones.
+Ejemplos:
+Posposiciones: guive, ári, peve, ndive, gotyo 
+Determinantes: ko, pe, amo, umi
+Conjunciones: térã, jepéramo, ha 
+Pronombres: che, nde
+Interjecciones: e’a.
+       - Los morfemas dependientes o ligados
+Necesitan unirse a un lexema para completar el significado de la palabra. Se reconocen dos tipos: prefijos y sufijos.
+       Los prefijos: Son los que anteceden al lexema, raíz o núcleo.
+       Ejemplo: ahayhu
+       Los sufijos: Son los que se posponen al lexema o raíz.
+       Ejemplo: Ahayhuete
+Observación
+       El guaraní es una lengua fuertemente aglutinante, de tipo polisintético y de yuxtaposición.
+       Los afijos deben ir en un lugar predeterminado, según el sentido que se le quiera dar al mensaje a través de la modificación de la raíz.
+       El afijo debe tener una posición determinada respecto de otros afijos y de la propia raíz, para darle el sentido deseado a la palabra que se construye.
+       Ejemplo: Aguatasékuri
+
+Categorías de las palabras según sus funciones
+       Al ser aglutinante el vocablo que oficia de lexema depende de los morfemas afijos que le acompañan para señalar el mensaje.
+       Existen cuatro grupos de categoría de palabras:
+
+
+
+1. Categoría Nominal
+Son palabras que nombran, que otorgan cualidad, que señalan las circunstancias de la acción verbal, que reemplazan a los nombres.
+Ejemplos:
+Kuñataĩ
+Kuñataĩ porã
+Oguata porã
+Che aguata
+2. Categoría Verbal
+       Son vocablos usados para expresar la acción que realizan las palabras de la categoría nominal o el estado en que se encuentran.
+Ejemplos:
+Jeruti oguata 
+Chekaria’ýma
+3. Categoría Deíctica
+       Son palabras que identifican y localizan a las personas, a los objetos o los procesos de los que se habla, tomando en consideración el contexto.
+       Esta categoría está integrada por: los adjetivos, los pronombres demostrativos, los adverbios de lugar y de tiempo.
+       Ejemplos:
+       Pe ñane rymba jagua
+       Ko’ãva ijayvu
+4. Conectores y relacionantes
+       Estas tienen la función de unir palabras o enunciados y de relacionarlos entre sí. Son las conjunciones, las posposiciones y las interjecciones.
+       Ejemplos:
+       Panambi ha kavaju
+       E’a! nderejeroviái cherehe
+
+Observación
+       Las categorías de palabras no son absolutas, pueden oscilar de una categoría a otra. Una misma palabra puede desempeñar funciones verbales o funciones nominales.
+       Entre las palabras variables o dependientes se hallan: el sustantivo, el adjetivo, el verbo y el adverbio.
+Entre las palabras invariables o independientes se encuentran: el pronombre, la conjunción y la interjección.
+
+LAS CATEGORÍAS GRAMATICALES - PARTES NOMBRE O SUSTANTIVO
+       Definición: Es la palabra que sirve para nombrar persona, animal, vegetal, objetos o ideas.
+       Ejemplos: Anai, jagua, tajy, apyka.
+       Clasificación del sustantivo
+1. Por su fonética:
+       Tiene en cuenta la emisión de los sonidos.
+       1.1. Sustantivo oral: carece de fonemas nasales, contienen exclusivamente vocales y consonantes orales.
+       Ejemplos: Ao, kure, yvága.
+       1.2. Sustantivo nasal: Son sustantivos cuya estructura contiene al menos una vocal o consonante nasal
+Ejemplos: Mandyju, petỹ, tañykã, tetyma.
+Observación
+       La clasificación de las palabras por su fonética es de importancia para el guaraní, porque las partículas varían con palabras nasales.
+       Ejemplos:
+       Pakovaty, "Pakova" es una palabra oral, por eso debe llevar la partícula oral "ty".
+       Ñanandy. "Ñana" es nasal y por ello debe llevar la partícula "ndy".
+       2. Por su forma:
+       Es la clasificación que presenta cambios sin alterar su esencia.
+       2.1. Sustantivo uniforme: Son palabras que poseen una sola forma para su uso.
+       Ejemplos: jagua, pyhare, avañe’ẽ. 
+       2.2. Sustantivo biforme: Son palabras que usan dos formas para expresar una forma absoluta y una forma constructiva. Esos sustantivos son referentes a los miembros de la familia.
+       Ejemplos:
+       Forma absoluta   Forma constructiva
+             ta’ýra                           ra’y
+             tajýra                           rajy
+             túva      		          ru
+             tykéra                          ryke
+       2.3. Sustantivo  triforme: Son nombres que usan tres formas para expresar la idea; una forma absoluta y dos formas constructivas. Los sustantivos triformes se refieren por lo general a las partes del cuerpo humano.
+       Ejemplos:
+       Forma absoluta      1 Forma constructiva        2 Forma constructiva
+       Tova                          Rova                                 Hova
+       Tetyma       	        Retyma     	                       Hetyma
+       Tañykã        	        Rañykã       	          Hañykã 
+       Óga                            Róga 		          Hóga
+
+       2.4. Sustantivo cuatriforme: Son nombres o palabras que usan cuatro formas para expresar la idea. Una forma es absoluta y las otras tres son constructivas. Son escasos.
+       Ejemplos:
+       Forma absoluta     1 Forma constructiva     2 Forma constructiva        3 Forma constructiva             
+                    tymba                        rymba                            hymba                             mymba 
+       to’o                            ro’o                                ho’o                                  so’o 
+      tenimbe                     renimbe                          henimbe                           inimbe  
+      tenimbo                     renimbo                          henimbo                          inimbo
+
+
+3. Por su estructura:
+       Atiende la composición del sustantivo. Se clasifican en:
+       3.1. Sustantivo simple: Son sustantivos cuya estructura tiene una sola palabra como raíz.
+       Ejemplos: Po, py, ára, apyka.
+       3.2. Sustantivo compuesto: en su estructura contienen más de una palabra. Los núcleos al unirse una con otra sin pérdida de elementos, forman una sola palabra compuesta. El resultado es una tercera palabra, diferente de sus componentes.
+       Ejemplos:
+       Mitakuña, de mitã + kuña; niña
+       Apykahai, de apyka + hai; pupitre
+       Tupãmba’ejára, de Tupã + mba’e + jára; mendigo
+
+3.3. Sustantivo aglutinado: Se produce con la unión de varios morfemas y lexemas con pérdida de elementos, sea por aféresis o por apócope.
+Ejemplos:
+       Apiku’i, de akã + pire + ku’i. Apiku’i
+       Atĩ, de akã + morotĩ. Akãtĩ
+       Vakapi, de vaka + pire. Vakapi
+3.4. Sustantivo polisintético: Se forma con un nombre/ sustantivo y morfemas que se le adicionan para formar otra palabra.
+       Ejemplo:
+             Lexema: óga.
+             Sustantivo Polisintético: ogapypeguakuéra
+4. Según su percepción:
+Son nombres que pueden percibirse o no, a través de los sentidos.
+       4.1. Sustantivos concretos: Son todos los que se perciben a través de los sentidos y se pueden ver, palpar, oler, oír y gustar. 
+       Ejemplos: Y, yvy, kuarahy
+       4.2. Sustantivos abstractos: Son los sustantivos que carecen de existencia tangible.
+       Ejemplos: Tupã, yvága, py’aguapy, tekojoja
+
+5. Por su extensión:
+Son sustantivos que hacen referencia a un nombre determinado o de una misma especie.
+
+5.1. Sustantivos propios: Son nombres determinados que sirven para individualizar a personas, animales, ciudades o lugares. Se escriben con letra inicial mayúscula.
+Ejemplos:
+Jeruti (nombre de persona).
+Paraguay (nombre de ciudad). 
+Píngi (nombre de perro).
+
+5.2. Sustantivos comunes: Son nombres genéricos de las personas, animales o plantas que son de la misma especie.
+Ejemplos: Kuña, guyra, mitã.
+
+6. Por su naturaleza:
+Hace referencia al origen del sustantivo y sus derivados.
+       6.1. Sustantivos primitivos: Son los nombres básicos a partir de los cuales se forman los derivados.
+       Ejemplos:
+       Juru 
+       Tye 
+       Tĩ
+       6.2. Sustantivos derivados: Son palabras que se forman a partir de los nombres primitivos.
+                 Ejemplos:
+                Juru (primitivo) 
+                Juruky’a (derivado) 
+                juruvy (derivado)
+Accidentes del nombre o sustantivo
+       El sustantivo en guaraní sufre los siguientes accidentes gramaticales: formas de uso, de número, de género, y de grado.
+1. Accidentes de usos de los nombres:
+Indican el tiempo de uso de un objeto o persona nominados.
+       1.1. Forma de uso presentiva: Es la forma del sustantivo que indica su uso en el presente. No lleva partícula de tiempo.
+Ejemplos: Che ao, ne rembireko, iñakã. 
+       1.2. Forma de uso preteritiva. Es la forma de uso en tiempo pasado. Utiliza la partícula "kue", "ngue" o "re".
+       Ejemplos: Che aokue, ne rembirekore, iñakãngue.
+       1.3. Forma de uso futuritiva: Indica que el sustantivo adquirirá un estado de tiempo en el futuro. Utiliza la partícula "rã", yuxtapuesta al nombre como sufijo.
+       Ejemplos: aorã, pa’irã, tembirekorã.
+       1.4. Forma de uso frustrativa: El nombre señala algo que debía suceder, pero no sucedió. Utiliza una partícula que resulta de la combinación del preteritivo con el futuritivo. La partícula "rãngue",
+Ejemplos: che aorãngue, pa’irãngue
+2. Accidentes de número del sustantivo:
+Indican si se refiere a uno o varios objetos.
+
+       2.1. Número Singular: son los que van acompañados por determinativos singulares (demostrativo numeral o indefinido).
+       Ejemplos:
+             Ko jagua.
+             Pe apyka. 
+          Amo karai.
+          Peteĩ apyka.
+          Che róga
+       2.2. Número Plural: Cuando se refiere a dos o más sustantivos. La construcción de la pluralidad puede darse por dos vías: Morfológica o sintáctica.
+
+       2.2.1.  Pluralidad  morfológica:  Adicionándole partículas pluralizantes. Se vuelven a clasificar:
+       2.2.1.1. Plural discriminativo: forma que emplea las partículas pluralizantes: "kuéra" (con vocablos orales) o "nguéra" (con vocablos nasales).
+Ejemplos:
+Karaikuéra 
+Mitãnguéra
+Ñe’ẽnguéra 
+       2.2.1.2. Plural de multitud: forma que emplea las partículas pluralizantes "eta", con los sustantivos terminados en vocales débiles (i, ĩ, u, ũ, y, ỹ); "ita", con las palabras terminadas en vocales fuertes (a, ã, e, ẽ, o, õ ). Ejemplos:
+Jaguaita, kyseita, ñe’ẽita, so’oita, votõita.
+Ju’ieta, kavajueta, kokũeta, jukyeta, petỹeta.
+
+       2.2.2. Pluralidad sintáctica o de construcción: La pluralidad surge de su relacionamiento con elementos sintácticos pluralizantes; como los adjetivos determinativos.
+Ejemplos.
+ Ã kuatia 
+Umi karai 
+Mokõi guyra
+Heta kuñakarai
+
+       2.3. Número genérico. Ninguna palabra en guaraní tiene número cuando está aislada, fuera de contexto; en ese caso el nombre no es singular ni plural. El número es ambiguo o neutro.
+       Ejemplo:
+       Mitã oñemoaranduhína.
+       El sustantivo "mitã" puede referirse a uno o varios niños. Se deducirá según el contexto o situación.
+Observación
+       La razón por la cual la partícula "kuéra" cambia a "nguéra" en el plural discriminativo, es para dar buen sonido a los fonemas nasales (armonización nasal). Si no cumple este objetivo, no hay razón para cambiarla.
+       Por  ejemplo,  "mbo’eharakuéra",  suena  mejor  que "mbo’eharanguéragui", aun cuando el vocablo "mbo’ehára", es nasal; heta mberu y no mberunguéra.
+       Para agregarle el sufijo, es necesario tener en cuenta la cercanía o la lejanía de los fonemas nasales.
+       Por otro lado, teniendo el guaraní un plural genérico, no se debe abusar de las partículas pluralizantes, al traducirlas.
+       Por ejemplo, pu’ae se puede traducir como "la vocal" o "las vocales"; así también pundie, se puede traducir como "consonante" o "consonantes".  No hace falta traducir como "pu’aekuéra" o "pundiekuéra".
+
+3. Accidente de género
+       El género es una propiedad gramatical de personas y animales.
+Los objetos no tienen género en guaraní.
+       El género en guaraní presenta las siguientes características:
+- No se atribuye género a los objetos inanimados ni a los insectos.
+       Ejemplos:
+Apyka, yvytu, arasa; ñati’ũ, mbutu, jatevu.
+- Se construye una palabra compuesta al indicar el género, con: “kuimba’e”, “ména”, “me” o “kuña”
+Ejemplos:
+Mitãkuimba’e, jaguakuña.
+- El género, masculino o femenino, en ocasiones, se halla incorporado al concepto de la palabra.
+Ejemplos:
+Kyvy, ryvy, ryke’y, taita conllevan el género masculino.
+Kuñataĩ, reindy, kypy’y, ryke, sy, jarýi conllevan el género femenino.
+
+Observación
+       Existe un vocabulario específico para uso exclusivo de hombres o mujeres. Por ejemplo, el padre dice "che ra’y" al hijo y "che rajy" a la hija. También se refiere a la hermana con: "che reindy", sin distinción de mayor o menor, pero refiriéndose a su hermano debe discriminar entre el mayor y el menor a él. Al mayor le dice: "che ryke’y" y al menor le dice: "che ryvy".
+       La mujer dice "che memby" a los hijos en general; pero para discriminar el género debe anexarle la palabra "kuña" o "kuimba’e". Al hermano le dice "che kyvy", sin distinción de mayor o menor. Pero cuando se refiere a sus hermanas debe especificar si es mayor o menor a ella. A la hermana mayor le dice "che ryke", y a la menor, "che kypy’y".
+"Kuimba’e" solo se puede usar con sustantivos que aluden a personas y se recurre al préstamo "macho" para los animales.
+Ejemplos:
+Mitãkuimba’e / Mitã + kuimba’e 
+Kavara mácho
+4. Accidente de grado del sustantivo
+       Indica la intensidad de la cualidad. Los grados básicos son tres: positivo, comparativo y superlativo.
+       4.1. Grado positivo del sustantivo: Es el sustantivo, sin especificación alguna de su cualidad. No adhiere ninguna partícula de grado.
+Ejemplos: Yvoty. kuñatai. Karia’y. Kuimba’e
+       4.2. Grado comparativo del sustantivo: Cuando establece relación entre sustantivos. Se divide en tres niveles que son:
+       4.2.1. Grado comparativo de igualdad: Indica la igualdad entre dos términos, sin distinción de ninguno. Utiliza la partícula "icha" como sufijo de uno de los términos.
+Ejemplos:
+Ko kuña iporã mbyjáicha
+Pe mitã oñani kavajúicha.
+       4.2.2. Grado comparativo de superioridad: Se pone en relación dos nombres para destacar la superioridad de uno de ellos con la partícula sufija "ve". El otro término lleva a su vez, la posposición "gui".
+       Ejemplos: Kóva ogave amóvagui.
+       4.2.3. Grado comparativo de inferioridad: Pone en relación dos términos para destacar la inferioridad de uno de ellos. Utiliza la partícula "ive".  Uno de los términos debe llevar la posposición monosilábica "gui".
+Ejemplo: Arami py’ve che sýgui.
+
+       4.3. Grado superlativo: Este grado eleva la intensidad del nombre, utilizando partículas unidas en juxtaposición que son "ete" para los terminados en vocales débiles (i, ĩ, u, ũ, y, ỹ) e "ite" para los terminados en vocales fuertes (a, ã, e, ẽ, o, õ). Para las palabras terminadas en "e" usa la partícula sufija -te.
+Ejemplos: karia’yete
+    kuñaite 
+    kuimba’ete
+
+       4.3.1 Grado supersuperlativo: Potencia el grado superlativo elevando la intensidad del nombre a un grado superior. Utiliza las partículas "eterei", si el sustantivo termina en vocal débil (i - ĩ - u - ũ- y - ỹ); o "iterei", si termina en vocal fuerte (a – ã - e - ẽ - o - õ). Las palabras terminadas en "e" usa la partícula sufija "terei".
+Ejemplos:
+Karia’yeterei. 
+Kuñaiterei.
+Kuimba’eterei.
+       4. 3. 2. Grado superlativisimo: Indica la intensidad del nombre, más allá del supersuperlativo. Utiliza la partícula "rasa".
+Ejemplos: Karia’yrasa - karairasa - mitãrasa
+       4.3.3. Grado ultrasuperlativo: Eleva la intensidad de la palabra a más allá del superlativísimo. Utiliza como partícula la combinación de -eterei y -rasa, para obtener: "etereirasa" o "itereirasa’’, que serán usadas según las vocales en que terminan los nombres sean débiles o fuertes.
+Ejemplos: karia’yetereirasa, mitãitereirasa
+       4.3.4 Grado excelso: Es el último grado que puede alcanzar el nombre y otras palabras en lengua guaraní. Se halla reservada para indicar jerarquías supremas. Utiliza las partículas sufijas "pavẽ", "vete" y "vusu". ·
+       Ejemplos: Vy’apavẽ, mburuvichavete, Ñanderuvusu.
+
+Observación
+       Las partículas de grados del sustantivo, se utilizan también con adjetivos, verbos y adverbios.
+Existen otros términos que indican grados de superioridad. Tales como "ruvicha".
+       Ejemplos: Taguato ruvicha.
+
+
+EL ADJETIVO
+
+1. Es la palabra que califica o determina al sustantivo. Existen dos clases de adjetivos: Calificativos y Determinativos.
+1.1. Adjetivos Calificativos: Son los que atribuyen al nombre, algunas cualidades, características o juicios de valor. En guaraní,siempre se posponen al sustantivo al que califica.
+	Ejemplos:
+Karai karape.
+Kavaju piru.
+Ita morotĩ.
+Teko potĩ.
+       1.2. Adjetivos determinativos: Son los que señalan el ámbito, la extensión y límites del sustantivo. Se reconocen los siguientes grupos bien precisos que son: demostrativos, numerales, indefinidos y posesivos.
+       1.2.1. Adjetivos demostrativos: Señala la distancia del sustantivo con respecto del hablante. En la relación sintáctica tiene orden fijo y se hallan ubicados antes del nombre. Son de dos clases:
+       1.2.1.1. Demostrativos de presencia: Indican la mayor o menor proximidad del sustantivo presente, con respecto al hablante. 
+Son Singulares: ko, pe, amo; y Plurales: Ã, ko’ã, umi
+Ejemplos:
+Ko apyka. 
+Amo mesa. 
+Pe jagua. 
+Ã ryguasu. 
+Ko’ã mitã.
+Umi óga.
+
+       1.2.1.2. Demostrativos de ausencia: Indican la mayor o menor lejanía del sustantivo ausente, con respecto al hablante. Los Singulares son, upe, ako, aipo ku; y el plural es "umi".
+Ejemplos:
+Upe karai ohenóikuri.
+Aipo mbokapu oikova’ekue.
+Ku mainumby oikoháicha. 
+Umi yva regueruakue.
+       1.2.2. Adjetivo determinativo posesivo: son los que indican apropiación del sustantivo o nombre, en primera y segunda persona. Pueden ser: singular y plural.
+       Singular
+Che		che róga	che resa
+Nde (ne)	nde resa	ne rañykã
+
+       Plural
+Ñande (ñane)	 ñande sy	 ñane retyma
+Ore róga
+Pende(pene)  	pende ru	pene tĩ
+
+Observaciones
+       Uso de los índices de posesión
+       Para la tercera persona se utilizan índices de posesión:
+       H,  Ij, Iñ, i, hi’ singular; H, Ij, Iñ, i o hi’ + tero+ kuéra (nguéra) plural.
+       Uso de la "h": Con sustantivo que inician con "T" u "O"; es decir con sustantivos triformes.
+       Ejemplos: Hóga, hesa, hetyma, hañykã.
+       Uso de la "ij": Con sustantivo oral que inicia con vocal y termina con vocal tónica
+Ejemplos: ijao, ijapyka.
+       Uso de la "Iñ": Con sustantivo nasal que inician con vocal y termina con vocal tónica.
+       Ejemplos: che akã, iñakã ,
+Uso de la "I": Con sustantivo que inician con consonantes que no sea "T"; u "O" inicial, porque todos ellos comienzan con "T".
+       Ejemplos:
+       Che mbarakaja, Che kuatia
+       Ne mbarakaja, Nde kuatia
+       Imbarakaja, Ikuatia
+       Uso de la "hi": Con sustantivos que inician con vocal tónica y terminan con vocal átona.
+       Ejemplos: hi’ára, hi’áva. 
+       Uso de la "o": El prefijo como índice de posesión hoy día es un virtual arcaismo. Antiguamente significaba "algo propio de él"; se decía "oakã" para indicar: "su propia cabeza".
+Quedan en el idioma, palabras con este índice posesivo, que siguen vigentes, tales como:
+Oakãvo; hacia su propia cabeza
+Otĩvo; hacia su propia nariz.
+Oykévo; hacia su costado o lado
+Oquývo; hacia su revés.
+Ovayvávo; de cara al cielo de: hova yvávo
+Ovapývo; de cara a la tierra.
+Opívo; hacia su propia piel, desnudo
+Opývo; hacia sus pies
+Opóvo; hacia sus manos
+Okuchívo; inclinado, de chanfle, en diagonal.
+Ondie; oĩ oñondie, entre sí, entre ellos.
+
+       2.2.3. Adjetivo numeral: Indica la cantidad o el orden de los sustantivos. Se vuelve a dividir en:
+       2.2.3.1. Adjetivo numeral cardinal: se utilizan para contar los sustantivos.
+       Ejemplos: Mokõi ryguasu - Irundy apyka
+       2.2.3.2. Adjetivo numeral ordinal: indica orden y utiliza la partícula "ha" en forma sufija al sustantivo.
+       Ejemplos:
+Mbo’esyry peteĩha.
+Óga mokõiha iporãve.
+Apyka mbohapyha chemba’e.
+Kóva kuatia poha.
+       2.2.3.3. Adjetivo numeral partitivo: Indica las partes de un todo, cuando es dividido, señalándolas a través de la repetición.
+Ejemplos:
+Peteĩteĩ temimbo’e ou.
+Mokõimokõi yva regueru.
+       2.2.4. Adjetivo determinativo indefinido: Son los que señalan Pluralidad del sustantivo, sin precisar la cantidad.
+Ejemplos:
+Mayma yvoty.
+Oimeraẽ kavaju.
+Heta kuatia.
+
+Observaciones
+       La posesión es una de las características que más la identifican a la lengua guaraní, próxima al "teko", en cuanto es índice revelador de la estructura profunda de la lengua. Además, el poseedor es definido según el grado de afinidad o identificación con lo poseído.
+Para señalar la posesión en guaraní, se debe poner primero el nombre del poseedor y luego el nombre de la cosa poseída; o dicho de otra forma: se debe poner el nombre de la cosa poseída indefectiblemente después del nombre del poseedor, por yuxtaposición, y así a lo largo de toda la escala.
+       Ejemplos:
+       Atilio kamisa (la camisa de Atilio ).
+       Atilio kamisa jyva (la manga de la camisa de Atilio ).
+       Atilio kamisa jyva votõ (el botón de la manga de la camisa de Atilio ).
+       La posesión alienable se da cuando la relación entre el poseedor y lo poseído no es fuerte. Algunos exigen la presencia de un elemento clasificador adicional: "tembi" (temi).  El esquema funcionaría así: posesor = clasificador + lo poseído.
+       Ejemplos:
+       Che remi mbyasy: che + remi + mbyasy. 
+       Che rembireko: che + rembi + reko.
+       Pene remiandu: pene + remi + andu.
+       La posesión inalienable, establece nexos más fuertes entre el posesor y lo poseído. A este grupo pertenecen las partes del cuerpo humano, nombres de animales o ciertas plantas, las relaciones de parentesco o ciertos objetos de la vida cotidiana o espiritual.  El esquema sería de la siguiente manera: Poseedor - objeto poseído.
+Ejemplos:
+Che akã. 
+Che irũ. 
+Accidentes de los adjetivos
+       Los adjetivos sufren accidentes de número y grado.
+1. Accidentes de números de los adjetivos.
+       Los adjetivos determinativos: sufren accidentes de números, singulares o plurales, al acompañar al sustantivo.  Los adjetivos calificativos no sufren accidentes de número.
+Ejemplos:
+Singular 
+Ko jagua
+Pe mitã
+Amo mbarakaja
+Che róga
+Nde apyka 
+Peteĩ ajaka
+
+Plural
+Ko’ã jagua
+Ã mitã
+Umi mbarakaja
+Che rógakuéra 
+Mbohapy apyka 
+Heta ajaka.
+       
+       Sin embargo, se puede observar la ausencia de número en los adjetivos. calificativos.
+Ejemplos:
+Singular: Pe karai marangatu. 
+Plural: Umi karai marangatu.
+
+El adjetivo calificativo, "marangatu" se mantiene en ambas formas, singular y plural.
+2. Accidente de grado de los adjetivos
+       Los adjetivos pueden tener los siguientes grados:
+       2.2.1. Grado positivo del adjetivo: No presenta ningún tipo de partícula de grado.
+Ejemplo: Mymba vai
+       2.2.2. Grado comparativo superior: Utiliza la partícula de grado "ve".
+Ejemplo: Tembi’u vaive ha’u.
+       2.2.3. Grado superlativo: Demuestra un grado más que el superior y utiliza las partículas "ete", con palabras terminadas en vocales débiles y "ite", con palabras terminadas en vocales fuertes.
+Ejemplo: Ao vaiete ojogua.
+       2.2.4. Grado supersuperlativo: Muestra un grado superior al superlativo a través de las partículas "eterei" con vocablos terminados en vocales fuertes y "iterei" con palabras terminadas de vocales débiles.
+Ejemplo: Yva vaieterei ome’ẽ.
+       2.2.5. Grado superlativísimo: Indica un grado superior al supersuperlativo. Utiliza la partícula: "rasa".
+Ejemplo: Tape vairasa niko péva.
+       2.2.6. Grado ultrasuperlativo: Utiliza las partículas compuestas "etereirasa" con palabras terminadas en vocales débiles y "itereirasa" con palabras terminadas en vocales fuertes.
+       Ejemplo: Óga vaietereirasa niko amóva.
+Observaciones
+       Asimismo, los adjetivos determinativos numerales o indefinidos sufren los accidentes de grados.
+       Ejemplos:
+Peteĩete kuatia ajuhúkuri.
+Hetaite apyka oĩ amo.
+Hetaiterei karai oúkuri.
+Hetaitereirasa mitákuña ajuhúkuri upépe.
+       En cuanto a la cuestión del género de los adjetivos en guaraní; los adjetivos no sufren accidentes de género.
+Ejemplos:
+Umi mitákuña porã. 
+Umi karia’y porã.
+
+       Se tiene en ambas frases las diferencias de género, marcadas por el adjetivo calificativo "porã" cuyo género está determinado por el sustantivo que lo acompaña y que ya tiene género en sí mismo.
+
+EL VERBO
+       Definición: es la palabra que indica, acción, estado o pasión.
+       El verbo guaraní es un vocablo polifuncional. Por su función sintáctica, expresa el aspecto dinámico de la realidad.
+Características
+- El verbo está formado por un lexema y uno o varios morfemas (prefijos o sufijos), que señalan sus accidentes. Los accidentes del verbo son: voz, persona, número, tiempo, aspecto, modo y grado.
+Ejemplo: Añe’ẽse.
+a = morfema prefijo. 
+ñe’ẽ = lexema.
+se = morfema sufijo.
+- El verbo conjugado posee un prefijo de número y persona anexado al lexema, por el cual realiza su oficio, al convertir un lexema genérico, en un verbo con forma personal. Los prefijos de número y persona son: a, re, o, en singular; y ja (ña), ro, pe, o, en plural.
+       Ejemplos:
+       Singulares
+       a-karu (1ª.)  - como
+       re-karu (2ª.)  - comes
+       o-karu (3ª.)  - come 
+       Plurales  
+       ja-karu (1ª.inc.)-comemos
+  	ro-karu (1ª. exc.)-comemos
+       pe-karu (2ª.)-coméis
+       o-karu (3ª.)-comen
+- Los prefijos de número y persona deben estar en concordancia con el sujeto.
+Ejemplo:
+Che akaru
+Suj. 1ª. P. Sing.
+- La flexión de la tercera persona es común para el singular y el plural.
+       Ejemplos:
+       Oguata; o-guata, camina él, ella
+       Oguata; o-guata, caminan ellos, ellas.
+- Existen dos formas de manifestar la primera persona del plural: la incluyente del mensaje, con el pronombre "ñande", que incluye al receptor o receptores; y con el pronombre "ore", que los excluye.
+Ejemplos:
+Ñande ñañomongetáta (1ª. p. pl., incluye al interlocutor).
+Ore roñomongetáta (1ª. p. pl., excluye al interlocutor).
+
+- Por armonización, para adicionar a los lexemas los distintos morfemas y señalar sus accidentes o modificaciones, se debe tener en cuenta si son orales o nasales.
+Ejemplos:
+Jagueru    Ñañe’ẽ
+Oupa        Osẽmba
+
+Clasificación de los verbos
+- En guaraní, los verbos se clasifican de manera general, atendiendo el  lexema o raíz,  en dos grandes grupos:  verbos propios y categorías léxicas verbalizadas. Los verbos propios tienen lexema verbal y a las categorías léxicas verbalizadas usan como lexemas las categorías nominales que se verbalizan al ser conjugadas.
+       Ejemplos:
+       Verbo propio/raíz verbal: Guata 
+       Che aguata; yo camino.
+Categorías léxicas verbalizadas: Mitã (sustantivo)
+Che chemitã; yo soy joven.
+- Las categorías léxicas verbalizadas son verbos predicativos, atributivos  o  chendales.  Las  categorías  nominales  (sustantivos, adjetivos,  adverbios),  al  ser verbalizadas y conjugadas,  utilizan pronombres personales en lugar de los prefijos de número y persona, propios del verbo a excepción de la 3ª. Persona del singular y plural, el cual debe escribirse unido al lexema.
+Ejemplos:
+Sustantivo: óga
+Adjetivo: porã
+Adverbio: mombyry
+cheróga        cheporã       chemombyry
+nderóga        neporã        nemombyry
+hóga             iporã           imombyry 
+ñanderóga    ñaneporã     ñanemombyry 
+oreróga        oreporã        oremombyry
+penderóga    peneporã     penemombyry
+hóga             iporã           imombyry
+
+- Existen verbos que se hallan subsumidos en las categorías verbalizadas, como los verbos castellanos "ser", "estar" o "tener", Estos verbos no tienen forma propia en guaraní.
+Ejemplos:
+Nde ndejuky / tú eres simpático 
+Chemombyry / estoy lejos 
+Chepyguasu / tengo los pies grandes
+
+- Sobre la construcción del verbo en guaraní, algunos lexemas pueden ser categorías verbales o categorías nominales, según la función que desempeñen. El verbo es una palabra siempre construida o conjugada.
+Así también, una palabra puede oscilar de la categoría nominal a la verbal y viceversa. Este fenómeno denominado "polaridad verbo­ nominal" es una categoría bipolar, algunas palabras pueden manifestar mayor tendencia hacia un polo que hacia el otro.
+Ejemplos:
+Pe mitãkuña porã oma’ẽ cherehe (función adjetiva, polo nominal).
+Pe mitãkuña iporã ha ikatupyry (función verbal, polo verbal).
+Pe mitãkuña oke porã (función adverbial, polo nominal).
+
+- En los incrementados se presentan los siguientes casos: pronombre-complemento terminado en "e" + re + verbo. (ha’e ndereraha)
+       Sujeto o pronombre-complemento en o + gue + verbo (che pogueraha).
+       Los verbos incrementados que toman los afijos "re" y "gue" son todos los formados con el prefijo "ro" y los siguientes son de uso frecuente: anohẽ, araha, arahauka, areko, arovia, aru.
+       El verbo "aity", aún sin tener la "r" inicial, pertenece en parte a los incrementados; pues toma "r" y no toma "gue" (reity, roity).
+En cuanto a verbos cercenados, algunos verbos que principian por "j" o "ñ" sufren aféresis de las letras iniciales, y las suprimen si van precedidos de un complemento directo acabado en "e". Los verbos más frecuentes de esta clase son: ajaho’i, aja’o, ajapi, ajapo, ajaty, añakã’o, añandu, añapĩ, añapytĩ, añatõi, añañuvã, ajavyky.
+       Ejemplos:
+       De “ajapi”: Ha’e che’api, ha’e ndeapi, ha’e ñandeapi, ha’e oreapi, ha’e pendeapi.
+- El lexema o núcleo verbal es generalmente invariable. Se tiene identificado sólo tres lexemas variables en guaraní, que son: "ho" (ir); "ju" (venir) y "’e" (decir).
+Ejemplos de lexemas variables:
+Che    aha   aju     ha’e
+Nde    reho   reju    ere
+Ha’e    oho   ou     he’i
+Ñande   jaha   jaju    ja’e
+Ore     roho   roju    ro’e
+Peẽ     peho  peju    peje
+Ha’ekuéra  oho   ou    he’i
+
+- Existen verbos conjugados, a cuyas partículas a-re-o-ja-(ña)-ro­ pe-o, se le agregan "i", antes del lexema, y después de las partículas de número y persona. La "i" no cumple simplemente una función de armonización fonética. Hace referencia a un objeto incorporado, aporta mayor claridad y aún puede establecer diferencia semántica. Como Ejemplos; aike, aikuaa, aikyty, aiko, etc.
+Ejemplos:
+Ha’e oike kotýpe / Él entra en la pieza. 
+Ha’e oke kotýpe / Él duerme en la pieza.
+- La estructura de los verbos, pueden ser simples y compuestas, según estén formados por uno o varios lexemas.
+Ejemplos:
+Che ajaojohéi (ao + johéi).
+Che añakãky’o (akã + ky’a + o).
+Che ahekombo’e (heko + mbo’e).
+
+Clasificación general de los verbos
+       1- Según su conjugación:   
+       - Propios
+       - Categorías léxicas verbalizadas: (Predicativos y Pronominales)
+       2- Según su variabilidad:
+       - Regulares: (Areales, Aireales y Hareales)
+       - Irregulares
+       - Defectivos
+       - Unipersonales
+       3- Según su acción o transitividad:
+       - Transitivos
+       - Intransitivos.
+1. Clases de verbos según su conjugación
+       1.1. Propios: son verbos con núcleos propiamente verbales, que al conjugarse utiliza raíces propiamente verbales. las partículas de número y persona: a - re - o - ja (ña) - ro - pe - o.
+Ejemplos:
+Verbo Oral        		Verbo Nasal 
+a-guata          		a-sẽ
+re-guata         		re-sẽ
+o-guata         		o-sẽ
+ja-guata        		ña-sẽ 
+ro-guata         		ro-sẽ
+pe-guata         		pe-sẽ
+o-guata                           o-sẽ
+
+1.2. Predicativos: Son verbos conjugados, cuyos lexemas base son sustantivos, adjetivos o adverbios. Predicen acerca de las personas gramaticales.
+Ejemplos:
+Verbo Oral       		Verbo Nasal
+Che che-yvate     	che-akãhatã
+Nde nde-yvate     	ne-akãhatã
+Ha’e ij-yvate      	iñ-akãhatã 
+Ñande ñande-yvate   	ñane-akãhatã
+Ore ore-yvate  		ore-akãhatã
+Peẽ pende-yvate	pene-akãhatã
+Ha’ekuéra ij-yvate   	iñ-akãhatã 
+
+1.3. Pronominales: Son categorías léxicas conjugadas que utilizan también los pronombres, pero en personales en función de complemento directo. Solo se conjugan en la primera y segunda persona del singular y del plural.
+Ejemplos:
+Verbo Oral 
+Nde che-juhu 
+Che ro-juhu
+Ha’ekuéra nde-juhu 
+Ha’e ñande-juhu 
+Ha’e ore-juhu
+Che po-juhu 
+Ha’ekuéra pende-juhu
+
+Verbo Nasal
+Nde che-muña
+Che ro-muña
+Ha’ekuéra ne-muña
+Ha’e ñane-muña 
+Ha’e ore-muña
+Che po-muña
+Ha’ekuéra pene-muña
+Observación
+       Como se ve, en los verbos pronominales se utiliza la partícula "ro", en la segunda persona del singular, en reemplazo de "nde", yuxtaponiéndose a la primera persona del singular.
+       Ejemplo: Che rojuhu.
+       En los verbos pronominales se utiliza la partícula "po", en reemplazo de "ore", yuxtaponiéndose a la primera persona del singular.
+       Ejemplo: Che pojuhu.
+2.- Clases de verbos según su variabilidad
+       2.1.1 -Verbos Regulares (areales): Son aquellos cuyas raíces permanecen invariables al ser conjugados, con respecto del modelo original y usa los prefijos personales que son: a-re-o-ja/ña-ro-pe-o.
+       Ejemplos:
+       Verbo Oral       		Verbo Nasal
+       Che a-guapy 			 a-maña
+       Nde   re-guapy   		 re-maña                       
+       Ha’e   o-guapy			 o-maña                        
+       Ñande  ja-guapy    		 ña-maña                      
+       Ore   ro-guapy  			 ro-maña                        
+       Peẽ   pe-guapy    		 pe-maña                       
+       Ha’ekuéra o-guapy		 o-maña                       
+
+       2.1.2- Verbos Regulares 1ra. Conjugación (aireales): Son aquellos  cuyas raíces o núcleos permanecen  invariables al  ser conjugados, con respecto del  modelo original  y usa los prefijos personales que son: ai-, rei-, oi-, jai/ñai-, roi-, pei-, oi- en cantidad son menos que los verbos areales. Algunos de ellos son: ai-pe’a; ai-kytĩ, aikutu, aikarãi, aikotevẽ, aikundaha, aikũmby, aikytĩ, aipe’a, aipeka, aipete, aipiro, aipovã, aipyaha, aipokyty, aiporu, aipyhy, aipapa, aipeju, aipe’o, aipepi, aipepy, aipichy, aipo’o, aiporavo, aipota, aipyte, aipeha’ã, aipohano, aipichãi, aiporayhureko, aime, aimo’ã, ainupã, aitykua, aitypei, aity, aityvyro, aisyryku, aisu’u, ahaiguy.
+Estos verbos se vuelven areales cuando se conjugan en la voz pasiva. 
+Ejemplos
+Aikutu; ajekutu; aikytĩ, añekytĩ; aipeju, ajepeju; aipohãno, añepohãno.
+       2.1.3- Verbos Regulares  2da. Conjugación (hareales): Son aquellos cuyas raíces o núcleos permanecen invariables al ser conjugados, con respecto del  modelo original  y usa los prefijos personales que son: ha-, re-, ho, ja/ña-, ro-, pe-, ho-.
+Se tienen identificados solo 5 verbos de este grupo y son: ’a (caer), ’u (comer), y’u (beber), ’yta (nadar), ’yguy (zambullir).
+Ejemplo:
+           ’A     ’U      ’Y’u    ’Yta      ’Yguy
+Che       ha’a   ha’u   hay’u    ha’yta    ha’yguy 
+Nde       re’a   re’u   rey’u    re’yta    re’yguy 
+Ha’e      ho’a   ho’u   hoy’u    ho’yta    ho’yguy
+Ñande     ja’a   ja’u   jay’u    ja’yta    ja’yguy
+Ore       ro’a   ro’u   roy’u    ro’yta    ro’yguy 
+Peẽ     	  pe’a   pe’u   pey’u    pe’yta    pe’yguy 
+Ha’ekuéra ho’a   ho’u   hoy’u    ho’yta    ho’yguy
+
+2.2.- Verbos Irregulares: Son verbos cuyos núcleos y/o indicadores verbales, varían del modelo original, al ser conjugados. Son escasos en la lengua guaraní. Se tienen identificados solo tres hasta ahora y son los verbos: Ju, venir; Ha, ir; y ‘E, decir.
+Ejemplo:
+       Ju     	ha      	e
+Che        	aju     	aha       ha’e
+Nde        	reju     	reho      ere
+Ha’e        	ou     	oho       he’i
+Ñande      	jaju     	jaha      ja’e
+Ore        	roju     	roho     ro’e
+Peẽ        	peju     	peho     peje
+Ha’ekuéra     	ou     	oho       he’i
+
+2.3.- Verbos defectivos:
+       Son verbos que no pueden ser conjugados con todas las personas gramaticales. Algunos se conjugan solamente en el plural. No admiten el Número singular porque son verbos colectivos. En guaraní, algunos de esos verbos son: "ko’i", (concurrir); "je’ói", (ir juntos); "hua’ĩ’, (concurrir en masa).
+       Ejemplos:
+       Ñande    	jako’i     jaje’ói     ñahua’ĩ
+             Ore     		roko’i    roje’ói     rohua’ĩ
+             Peẽ     		peko’i    peje’ói    pehua’ĩ
+       Ha’ekuéra	oko’i      oje’ói      ohua’ĩ
+
+2.4. Verbos unipersonales:
+       Son aquellos que se conjugan exclusivamente en la tercera persona del singular y con sujeto indeterminado. Los mejores Ejemplos son aquellos verbos que indican fenómenos atmosféricos, naturales.
+       Ejemplos: "Oky" (llueve), "osunu" (truena); "overa" (relampaguea), "otyky" (gotea),  "otiri" (se resquebraja),  "oguyguy" (relampaguea), "hayvi" (llovizna), "iñypytũ" (es oscuro), "ijarai" (está nublado).
+3- Clases de verbos según su acción o transitividad
+3.1. Verbos transitivos: Aquellos cuya acción pasa a un complemento directo, sin el cual no se completa el significado de la oración.
+Ejemplo:
+Che ha’u mandi’o.
+El verbo "’u", es un verbo transitivo porque exige el complemento directo "mandi’o"; sin éste, no queda completa la idea.
+3.2.- Verbos intransitivos: Aquellos que no necesitan de complemento alguno, porque la idea ya está completa.
+       Ejemplos:
+       Che akaru (yo almuerzo).
+       Ha’e oguata (él camina).
+Observación
+       Los verbos bitransitivos tienen la propiedad de poder seleccionar un objeto directo y un objeto indirecto, permitiendo precisar el alcance del verbo.
+       Ejemplos:
+Che akaru. (Yo almuerzo).
+       Che akaru kumanda. (Yo almuerzo poroto).
+
+Los accidentes verbales
+       1. Accidentes de número y persona
+       Los números gramaticales son dos: singular y plural, están implícitos en las partículas de personas gramaticales, que son tres:
+       1.1. Categórica: En la cual el hablante pone en funcionamiento un verbo indicando simplemente la acción a través del mismo. En guaraní se realiza, por medio de morfemas prefijos que expresan la persona gramatical y el número del verbo, antepuestos y yuxtapuestos al lexema. Ellos son: a- re- o- (singulares), ja/ña- ro- pe- o-, (Plurales)
+Ejemplos:
+Singulares
+A-guejy    	a-ñe’ẽ (1ª pers.)
+R-eguejy    	re-ñe’ẽ (2ª pers.)
+O-guejy    	o-ñe’ẽ (3ª pers.)
+
+Plurales
+Ja-guejy    ña-ñe’ẽ (1ª pers.)
+Ro-guejy    ro-ñe’ẽ (1ª pers.)
+Pe-guejy    pe-ñe’ẽ (2ª pers.)
+O-guejy     o-ñe’ẽ (3ª pers.)
+
+       1.2. Conjugación Optativa: 
+       No tiene equivalente en castellano. Aparentemente el hablante comunica una decisión; también da la impresión de que se da órdenes a sí mismo. Sus indicadores verbales son: ta- tere- to- taja/taña- toro- tape- to-.
+Ejemplos:
+Ta-jatapy che		Ta-ma’ẽ che
+Tere-jatapy nde 	             Tere-ma’ẽ nde
+To-jatapy ha’e		To-ma’ẽ ha’e
+Taja-jatapy ñande	Taña-ma’ẽ ha’e  
+Toro-jatapy ore    	Toro-ma’ẽ ore
+Tape-jatapy peẽ   	Tape-ma’ẽ peẽ
+To-jatapy ha’ekuéra	To-ma’ẽ ha’ekuéra
+
+1.3. Conjugación Imperativa: Se hace uso de esta conjugación para dar órdenes personales a la segunda persona gramatical del singular y plural. Sus partículas son: e- y pe.
+Ejemplos:
+E-karu nde, comé vos, come tu. 
+E-ñe’ẽ nde, hablá vos, habla tu.
+Pe-karu peẽ, coman ustedes, comed vosotros.
+Pe-ñe’ẽ peẽ, hablen ustedes, hablad vosotros.
+
+       2. Accidentes de forma del verbo
+       Indican si la acción del verbo es afirmativa, negativa o interrogativa en la oración.
+       2.1. Forma afirmativa: con enunciado normal, sin partículas.
+       Ejemplos:
+       Ajovahéi 
+       Rejovahéi 
+       Ojovahéi 
+       Jajovahéi 
+       Rojovahéi 
+       Pejovahéi 
+       Ojovahéi
+       Arambosa
+       Rerambosa
+       Orambosa
+       Ñarambosa
+       Rorambosa
+       Perambosa
+       Orambosa
+
+       2.2. Forma negativa: Indica la negación de la acción del verbo. Posee partículas prefijas y sufijas. Sus partículas son:
+       Con verbos orales: nd + verbo + i 
+       Con verbos nasales: n + verbo + i
+       
+       La partícula sufija "ri" se usa cuando el verbo termina en "i". También se usa el pleonasmo "iri" cuando se quiere dar énfasis a la negación, y con palabras no terminadas en "i", como: ndoguatáiri. Su núcleo es el verbo conjugado en forma afirmativa
+       Ejemplos:
+       Verbo Oral	 		Verbo Nasal		Verbo terminado en i  
+       Che     nd-ajuhú-i		n-asẽ-i			nd-ajapí-ri                                          
+       Nde    nde-rejuhú-i		ne-resẽ-i		nde-rejapí-ri      	
+       Ha’e    nd-ojuhú-i		n-osẽ- i    		nd-ojapí-ri   
+       Ñande   nda-jajuhú-i		na-ñasẽ- i  		nd-ajapí-ri
+       Ore    ndo-rojuhú- i		no-rosẽ- i		ndo-rojapí-ri 		
+       Peẽ    nda-pejuhú-i		na-pesẽi		nda-pejapí-ri  
+       Ha’ekuéra nd-ojuhú-i    		n-osẽ-i			nd-ojapí-ri             
+
+       2.3. Forma interrogativa: con ella se construye la pregunta o interrogación de la acción del verbo en una oración. Sus partículas (átonas) son: "pa", "piko" o "tiko" y otros, enteros o apocopados, como tio, tea, etc. No necesitan usar la marca de interrogación porque las partículas de interrogación ya lo demuestran y la expresión no se entona interrogativamente.
+Ejemplos:
+Ahekápa che 
+Rehekápa nde
+Ohekápa ha’e 
+Jahekápa ñande 
+Rohekápa ore 
+Pehekápa peẽ 
+Ohekápa ha’ekuéra
+       3. Accidentes de voz del verbo
+       Establece la relación entre el sujeto y la acción del verbo en una oración. Se indica generalmente con partículas que se ubican entre el lexema y la partícula de número y persona. Pueden ser de dos clases: voz activa y voz pasiva.
+       3.1. Voz activa: Refleja que el sujeto realiza la acción. La activa simple no lleva partícula.
+       Ejemplos:
+       Verbo Oral   Verbo Nasal
+Che    	 	ajoka      	ambo’i
+Nde     		rejoka      	rembo’i
+Ha’e     		ojoka      	ombo’i
+Ñande    	jajoka      	ñambo’i
+Ore     		rojoka     	rombo’i
+Peẽ     		pejoka      	pembo’i
+Ha’ekuéra  	ojoka      	ombo’i
+3.2. Voz pasiva: Muestra que se recibe los efectos de una acción. Usa la partícula "je" para verbos orales y "ñe" para verbos nasales.
+       Ejemplos
+
+       Verbo Oral       Verbo Nasal
+Che     	ajeja’o      	añemosẽ
+Nde      rejeja’o      	reñemosẽ
+Ha’e     ojeja’o      	oñemosẽ
+Ñande   jajeja’o      	ñañemosẽ
+Ore     rojeja’o      	roñemosẽ
+Peẽ             pejeja’o      	peñemosẽ
+Ha’ekuéra  ojeja’o      	oñemosẽ
+
+Las voces activas se vuelven a clasificar
+       3.1.1 Voz coactiva: El sujeto oficia de agente indirecto y manda a realizar la acción a otra persona. Utiliza la partícula "mbo" para verbos orales y "mo" para verbos nasales.
+Ejemplos:
+
+       Verbo Oral    		Verbo Nasal
+       Che     a-mbo-guata    		a-mo-ñe’ẽ
+       Nde     re-mbo-guata    		re-mo-ñe’ẽ
+       Ha’e     o-mbo-guata    		o-mo-ñe’ẽ
+       Ñande    ña-mbo-guata   	ña-mo-ñe’ẽ 
+       Ore        ro-mbo-guata    	ro₋mo₋ñe’ẽ
+       Peẽ        pe-mbo-guata  		pe-mo-ñe’ẽ
+       Ha’ekuéra  o-mbo-guata   	o-mo-ñe’ẽ
+       
+       3.1.2 Voz recíproca: Necesita de dos sujetos, y se conjuga solamente en el plural, utilizando la partícula "jo" para verbos orales y "ño" verbos nasales.
+Ejemplos:
+       Verbo Oral		    Verbo Nasal
+Ñande   	ja-jo-juhu		     ña-ño-moirũ
+Ore    		ro-jo-juhu   		     ro-ño-moirũ
+Peẽ    		pe-jo-juhu     		     pe-ño-moirũ
+Ha’ekuéra 	o-jo-juhu     		     o-ño-moirũ
+
+       3.1.3 Voz objetiva: El sujeto realiza la acción en personas o animales indeterminadas. Utiliza la partícula "poro" con personas y "mba’e" con animales.
+Ejemplos:
+		                   Con Personas 		             Con Animales
+       Verbo Oral		Verbo Nasal
+Che  		a-poro-hayhu 		a-poro-mosẽ		a-mba’e-juka
+Nde  		re-poro-hayhu 		re-poro-mosẽ		re-mba’e-juka		
+Ha’e  		o-poro-hayhu		o-poro-mosẽ 		o-mba’e-juka
+Ñande 		ja-poro-hayhu		ña-poro-mosẽ		ña-mba’e-juka 
+Ore  		ro-poro-hayhu 		ro-poro-mosẽ		ro-mba’e-juka
+Peẽ  		pe-poro-hayhu 		pe-poro-mosẽ		pe-mba’e-juka
+Ha’ekuéra 	o-poro-hayhu		o-poro-mosẽ		o-mba’e-juka
+
+       3.1.4 Voz subsuntiva: El sujeto realiza la acción para conseguir que el paciente realice la misma acción. Utiliza la partícula: "guero" o su apócope "ro".
+       Ejemplos:
+       Verbo Oral        	Verbo Nasal
+Che    		 a-guero-sapukái      	a-guero-tĩ
+Nde     		re-guero-sapukái     	re-guero-tĩ
+Ha’e     		o-guero-sapukái      	o-guero-tĩ
+Ñande 		ja-guero-sapukái   	ña-guero-tĩ
+Ore 		ro-guero-sapukái    	ro-guero-tĩ
+Peẽ 		pe-guero-sapukái   	pe-guero-tĩ
+Ha’ekuéra 	o-guero-sapukái  	o-guero-tĩ
+
+
+VOCES PASIVAS
+
+       Las voces pasivas pueden ser simples o reflejas, según quien sea el agente de la acción. Si realiza otra persona teniendo al hablante como paciente o agente pasivo, la voz pasiva es simple. El ejemplo ya se tiene más arriba.
+       En cambio, si la acción es realizada por el propio agente, el hablante, que a su vez es paciente, o receptor de los efectos de su propio acto, la acción es pasiva refleja. Esta última usa las mismas partículas "je" y su homorgánica "ñe", y no hay modo de distinguirlos sino por el contexto.
+       Ejemplo:
+       a-je-japi
+       a-ñe-kytĩ
+
+
+LOS TIEMPOS DEL VERBO
+
+4. Accidentes de tiempo del verbo
+       Indican el tiempo de la realización de la acción del verbo. Los tiempos son: presente, pasado y futuro.
+
+       4.1. Tiempo presente
+       Indica el momento actual en que se realiza la acción del verbo. No posee partícula de tiempo.
+Ejemplos:
+                   Verbo Oral   	Verbo Nasal
+       Che                   aguata     	ame’ẽ 
+       Nde                   reguata    	reme’ẽ                        
+       Ha’e                  oguata   	ome’ẽ
+       Ñande                jaguata    	ñame’ẽ                             
+       Ore    		roguata   	rome’ẽ
+       Peẽ    		peguata    	peme’ẽ
+       Ha’ekuéra 	oguata     	ome’ẽ
+
+4.2. Tiempos pasados o pretéritos: Indica que la acción se había realizado en forma previa y lejana al momento del habla.
+       4.2.1. Pretérito perfecto: Indica que la acción se realizó en un tiempo pasado. Utiliza la partícula tónica "akue" sin pusó unida al lexema verbal.
+Ejemplos:
+       Verbo Oral       	Verbo Nasal
+Che    		agueruakue     	  	amoĩakue
+Nde    		regueruakue      		remoĩakue
+Ha’e    		ogueruakue       		omoĩakue
+Ñande   	jagueruakue       	ñamoĩakue
+Ore    		rogueruakue       	romoĩakue                   
+Peẽ    		pegueruakue       	pemoĩakue                   
+Ha’ekuéra 	ogueruakue       		omoĩakue                   
+
+       4.2.2. Pretérito pluscuamperfecto: Indica que la acción se realizó en un tiempo más lejano al pretérito. Utiliza la partícula tónica "va’ekue" unida al lexema.
+       Ejemplos:
+       Verbo Oral       	Verbo Nasal
+Che   		agueru-va’ekue     	amoĩ-va’ekue
+Nde   		regueru-va’ekue    	remoĩ-va’ekue              
+Ha’e    		ogueru-va’ekue     	omoĩ-va’ekue               
+Ñande   	jagueru-va’ekue     	ñamoĩ-va’ekue              
+Ore    		rogueru-va’ekue    	romoĩ-va’ekue              
+Peẽ    		pegueru-va’ekue    	pemoĩ-va’ekue             
+Ha’ekuéra 	ogueru-va’ekue     	omoĩ-va’ekue              
+
+       4.2.3. Pretérito imperfecto: Expresa una acción pasada cuyo principio y fin no esta definido. Utiliza la partícula átona "mi" unida al lexema.
+Ejemplos:
+       Verbo Oral     		Verbo nasal
+Che    		ajokó-mi        		añatõi-mi
+Nde    		rejokó-mi       		reñatõi-mi
+Ha’e   		ojokó-mi        		oñatõi-mi
+Ñande  		jajokó-mi      		ñañatõi-mi
+Ore    		rojokó-mi       		roñatõi-mi
+Peẽ   		pejokó-mi      		peñatõi-mí
+Ha’ekuéra 	ojokó-mi      		oñatõi-mi
+
+       4.2.4. Pretérito reciente: Señala que la acción se realizó en un tiempo pasado recientemente. Utiliza la partícula átona "kuri".
+       Verbo Oral      		Verbo Nasal
+Che     		akarúkuri       		añenókuri
+Nde     		rekarúkuri       		reñenókuri
+Ha’e     		okarúkuri      	 	oñenókuri
+Ñande    	jakarúkuri       		ñañenókuri
+Ore     		rokarúkuri      		romoĩkuri
+Peẽ     		pekarúkuri      		peñenókuri
+Ha’ekuéra  	okarúkuri       		oñenókuri
+
+4.2.5. Pretérito remoto: Indica una acción en tiempo lejano. Partícula átona "raka’e".
+Ejemplos:
+         		Verbo Oral      		Verbo Nasal
+Che   		akéraka’e		añomíraka’e
+Nde  		rekéraka’e		reñomíraka’e
+Ha’e     		okéraka’e       		oñomíraka’e                 
+Ñande   	jakéraka’e      		ñañomíraka’e                
+Ore     		rokéraka’e     		roñomíraka’e                 
+Peẽ     		pekéraka’e      		peñomíraka’e                 
+Ha’ekuéra  	okéraka’e       		oñomíraka’e                
+4.2.6. Pretérito anterior: Indica un tiempo relativamente reciente partícula átona "ra’e".
+Ejemplos:
+       Verbo Oral		Verbo Nasal
+Che    		akáira’e       		akañýra’e
+Nde    		rekáira’e       		rekañýra’e
+Ha’e    		okáira’e       		okañýra’e
+Ñande   	jakáira’e       		ñakañýra’e
+Ore    		rokáira’e       		rokañýra’e
+Peẽ    		pekáira’e       		pekañýra’e
+Ha’ekuéra 	okáira’e      		okañýra’e
+
+4.3. Tiempo futuro: indica que la acción se realizará posterior al momento del habla.
+4.3.1. Futuro perfecto: Indica una acción a realizarse, sin precisar el momento. Su partícula es "ta" (átona).
+       Verbo Oral   		Verbo Nasal
+Che    		    apoíta           		   apo’ẽta
+Nde    		    repoíta      		   repo’ẽta
+Ha’e    		    opoíta      		   opo’ẽta
+Ñande   	     japoíta      		   ñapo’ẽta
+Ore    		     ropoíta      		   ropo’ẽta
+Peẽ    		     pepoíta      		   pepo’ẽta
+Ha’ekuéra 	     opoíta      		   opo’ẽta
+
+4.3.2. Futuro obligatorio: Indica una acción que deberá realizarse de modo imprescindible. Utiliza la partícula tónica "va’erã",
+Ejemplos:
+       Verbo Oral       	Verbo Nasal
+Che   		aguatava’erã    	 	añohẽva’erã                   
+Nde   		reguatava’erã    		reñohéva’erã                   
+Ha’e    		oguatava’erã     		oñohéva’erã                   
+Ñande   	jaguatava’erã    		ñañohẽva’erã                  
+Ore    		roguatava’erã     	roñohẽva’erã                   
+Peẽ    		peguatava’erã     	peñohẽva’erã                 
+Ha’ekuéra 	oguatava’erã     		oñohẽva’erã                 
+       
+4.3.3. Futuro necesario: Indica una acción que debe realizarse en el futuro, por necesidad. Usa la partícula tónica "arã".
+       Ejemplos:
+       Verbo Oral      		Verbo Nasal
+Che    		ajohei’arã      		amokã’arã
+Nde   		rejohei’arã		remokã’arã
+Ha’e   		ojohei’arã      		omokã’arã
+Ñande  		jajohei’arã   		ñamokã’arã 
+Ore    		rojoheí’arã      		romokã’arã
+Peẽ    		pejohei’arã      		pemokã’arã
+Ha’ekuéra 	ojohei’arã    	 	omokã’arã
+
+4.3.4. Futuro próximo: Indica que la acción va a realizarse en un momento cercano, en el futuro. Sus partículas tónicas son: "pota" para verbos orales y "mbota" para verbos nasales, por armonización nasal.
+       Ejemplos:
+       Verbo Oral    		Verbo Nasal
+Che    		ajahupota     		asẽmbota
+Nde    		rejahupota     		resẽmbota
+Ha’e    		ojahupota     		osẽmbota
+Ñande   	jajahupota     		ñasẽmbota
+Ore    		rojahupota    		rosẽmbota
+Peẽ    		pejahupota    		pesẽmbota
+Ha’ekuéra  	ojahupota     	      	osẽmbota
+
+4.3.5. Futuro dudoso: Indica una acción que se realizará dudosamente, en algún momento futuro. Su partícula átona es "ne".
+Ejemplos:
+       Verbo Oral     		Verbo Nasal
+Che     			ajohéine      		ambyatyrõne
+Nde     			rejohéine      		rembyatyrõne
+Ha’e			ojohéine      		ombyatyrõne
+Ñande   		jajohéine      		ñambyatyrõne
+Ore    			rojohéine     		rombyatyrõne
+Peẽ    			pejohéine     		pembyatyrõne
+Ha’ekuéra 		ojohéine     		ombyatyrõne
+
+5. El accidente verbal de aspecto
+       El aspecto del verbo señala el proceso, característica y forma en que se desarrolla la acción verbal; mientras que las partículas de tiempo es la que señala el tiempo definitivo.
+       Las partículas que señalan aspecto son "ína" para el aspecto imperfectivo e “ikóni” , para el aspecto intermitente. Ambas partículas recurren a las armonizaciones, según necesidad y pueden concurrir al mismo tiempo que las partículas de tiempo, en un mismo verbo. Así: Aguatava’era’ãína - oñe’ẽnehikóni. Por otro lado, con las primeras personas del plural, los dos aspectos utilizan la partícula de número y persona "ña", en vez de "ja" porque las partículas de aspecto (ína, ikóni), ya nasalizan el verbo.
+Ejemplos:
+Aspecto imperfectivo: ína
+       Verbo Oral		Verbo nasal
+Che   		apytu’u’aína		amono’õ’aína
+Nde    		repytu’ureína		remono’õreína
+Ha’e   		opytu’uhína		omono’õhína
+Ñande   	japytu’uñaína		ñamono’õñaína
+Ore    		ropytu’uroína		romono’õroína
+Peẽ    		pepytu’upeína		pemono’õpeína
+Ha’ekuéra 	opytu’uhína		omono’õhína
+
+Aspecto intermitente: ikóni
+       verbo oral 		verbo nasal
+Che    			ajapo’aikóni		amboty’aikóni
+Nde    			rejaporeikóni		rembotyreikóni
+Ha’e   			ojapohikóni		ombotyhikóni
+Ñande   		jajapoñaikóni		ñambotyñaikóni
+Ore    			rojaporoikóni		rombotyroikóni
+Peẽ			pejapopeikóni		pembotypeikóni
+Ha’ekuéra 		ojapohikóni		ombotyhikóni
+
+6. Accidentes de modo del verbo
+       Indican la manera en que se realiza la acción del verbo; el cómo. Pueden ser indicativos o imperativos.
+Los modos indicativos
+       6.1. Modo indicativo simple: Expresa la actitud objetiva del hablante con respecto al verbo. No lleva partícula de modo.
+Ejemplos:
+       Verbo Oral    		Verbo Nasal
+Che    		ajara        		ama’ẽ 
+Nde    		rejara        		rema’ẽ
+Ha’e    		ojara     		  	oma’ẽ
+Ñande   	jajara        		ñama’ẽ
+Ore     		rojara        		roma’ẽ
+Peẽ    		pejara        		pema’ẽ
+Ha’ekuéra  	ojara         		oma’ẽ 
+       
+       6.2. Modo volitivo: Expresa el deseo de que se realice la acción. Lleva la partícula sufija tónica "se".
+Ejemplos:
+       Verbo Oral    		Verbo Nasal
+Che     		aguapyse      		apu’ãse
+Nde     		reguapyse      		repu’ãse
+Ha’e    		oguapyse      		opu’ãse
+Ñande   	jaguapyse      		ñapu’ãse
+Ore    		roguapyse     		ropu’ãse
+Peẽ		peguapyse      		pepu’ãse
+Ha’ekuéra  	oguapyse      		opu’ãse
+
+6.3. Modo supositivo: Implica una suposición que la acción se realice. Sus partículas pueden ser: "po", "nipo", "pipo" (átona).
+Ejemplos:
+       Verbo Oral    		Verbo Nasal
+Che      		aguerúnipo     		apyrũnipo
+Nde    		reguerúnipo     		repyrũnipo
+Ha’e      	oguerúnipo     		opyrũnipo
+Ñande    	jaguerúnipo     		ñapyrũnipo
+Ore      		roguerúnipo     		ropyrũnipo
+Peẽ     		peguerúnipo    		pepyrũnipo 
+Ha’ekuéra   	oguerúnipo     		opyrũnipo
+
+6.4. Modo conjetural: Expresa la falta de seguridad de que la acción se realice. Sus partículas átonas pueden ser: "rõ" o "ramo".
+Ejemplos:
+       Verbo Oral   		 Verbo Nasal
+Che    		akuerárõ       		asẽrõ 
+Nde    		ekuerárõ       		resẽrõ
+Ha’e      	okuerárõ       		osẽrõ
+Ñande    	jakuerárõ      		ñasẽrõ 
+Ore      		rokuerárõ       		rosẽrõ
+Peẽ      		pekuerárõ      		pesẽrõ
+Ha’ekuéra   	okuerárõ     	 	osẽrõ
+
+Che    		akueráramo     		asẽramo
+Nde    		rekueráramo     		resẽramo
+Ha’e     		okueráramo     		osẽramo
+Ñande    	jakueráramo    		ñasẽramo
+Ore      		rokueráramo     		rosẽramo
+Peẽ      		pekueráramo    		pesẽramo 
+Ha’ekuéra   	okueráramo     		osẽramo
+       
+6.5. Modo habitual: Indica que la acción se realiza en forma acostumbrada. Utiliza la partícula átona "va".
+Ejemplos:
+       Verbo Oral   		Verbo Nasal
+Che    		aguerúva    		ambo’éva
+Nde    		reguerúva    		rembo’éva
+Ha’e    		oguerúva     		ombo’éva
+Ñande   	jaguerúva    		ñambo’éva
+Ore    		roguerúva    		rombo’éva
+Peẽ    		peguerúva    		pembo’éva
+Ha’ekuéra 	oguerúva    		ombo’éva
+       
+6.6.  Modo totalitativo: indica que la acción se realiza completamente. Utiliza las partículas tónicas "pa" para verbos orales y "mba", para verbos nasales.
+Ejemplos:
+       Verbo Oral   		Verbo Nasal
+Che    		ajapopa     		amoĩmba
+Nde    		rejapopa     		remoĩmba
+Ha’e    		ojapopa     		omoĩmba
+Ñande   	jajapopa     		ñamoĩmba
+Ore    		rojapopa     		romoĩmba
+Peẽ    		pejapopa     		pemoĩmba
+Ha’ekuéra 	ojapopa     		omoĩmba
+
+6.7. Modo cuasiaccional: Indica que la acción se desarrolla a medias, no en su totalidad. Utiliza la partícula tónica "vy" y su homorgánica "ngy". Ej. ahechangy
+Ejemplos:
+       Verbo Oral    		Verbo Nasal
+Che      		akevy         		ambyasyvy                  
+Nde      		rekevy         		rembyasyvy                  
+Ha’e     		okevy         		ombyasyvy                  
+Ñande    	jakevy         		ñambyasyvy                 
+Ore      		rokevy         		rombyasyvy                  
+Peẽ      		pekevy         		pembyasyvy                 
+Ha’ekuéra  	okevy         		ombyasyvy                  
+
+6.8. Modo mediativo: Indica que la acción se realiza a través de otra persona. Su partícula tónica es "uka".
+Ejemplos:
+       Verbo Oral   		Verbo Nasal
+Che    		ajapouka     		amyatyrõuka
+Nde    		rejapouka     		remyatyrõuka
+Ha’e    		ojapouka     		omyatyrõuka
+Ñande   	jajapouka     		ñamyatyrõuka 
+Ore     		rojapouka    		romyatyrõuka 
+Peẽ    		pejapouka    		pemyatyrõuka 
+Ha’ekuéra  	ojapouka     		omyatyrõuka
+
+6.9. Modo locativo: Hace referencia al lugar de la acción del verbo. Utiliza la partícula tónica "ha".
+Ejemplos:
+                     	Verbo Oral    		Verbo Nasal
+Che      		    ajekoha      		añomiha
+Nde       	    rejekoha       		reñomiha                  
+Ha’e       	    ojekoha        		oñomiha                  
+Ñande      	    jajekoha        		ñañomiha                 
+Ore       		    rojekoha       		roñomiha
+Peẽ		    pejekoha       		peñomiha                  
+Ha’ekuéra    	    ojekoha       		oñomiha                  
+
+6.10. Modo concomitante: Indica la simultaneidad de la acción. Su partícula "vo" es átona.
+Ejemplos:
+       Verbo Oral   		Verbo Nasal
+Che      		ahechávo     		amañávo
+Nde      		rehechávo     		remañávo
+Ha’e     		ohechávo     		omañávo
+Ñande    	jahechávo    		ñamañávo
+Ore      		rohechávo    		romañávo
+Peẽ      		pehechávo    		pemañávo
+Ha’ekuéra   	ohechávo     		omañávo
+
+6.11. Modo proximal: Indica que la acción es medianamente realizada. Utiliza la partícula tónica "nunga".
+Ejemplos:
+       Verbo Oral     	Verbo Nasal
+Che      		ajeinunga      	ambyasynunga
+Nde      		rejeinunga      	rembyasynunga
+Ha’e     		ojeinunga      	ombyasynunga
+Ñande    	jajeinunga     	ñambyasynunga
+Ore      		rojeinunga      	rombyasynunga
+Peẽ     		pejeinunga     	pembyasynunga
+Ha’ekuéra   	ojeinunga     	ombyasynunga
+
+6.12. Modo colectivo: Indica que la acción es realizada por dos o más personas. Partícula es "joa", tónica y se conjuga en el plural, la partícula indica Pluralidad.
+Ejemplos:
+              Verbo Oral   	Verbo Nasal
+Ñande          javy’ajoa       	ñañembo’yjoa
+Ore      	       rovy’ajoa       	roñembo’yjoa
+Peẽ      	       pevy’ajoa       	peñembo’yjoa
+Ha’ekuéra   ovy’ajoa       	oñembo’yjoa
+
+6.13. Modo narrativo verosímil: Quiere resaltar la veracidad de lo que se dice. Sus partículas átonas, pueden ser: "niko", "ningo" o "ko".
+Ejemplos:
+       Verbo Oral     		Verbo Nasal
+Che     		ajoguániko       		ambo’éningo
+Nde     		rejoguániko      		rembo’éningo
+Ha’e     		ojoguániko       		ombo’éningo
+Ñande   	jajoguániko      		ñambo’éningo
+Ore     		rojoguániko      		rombo’éningo
+Peẽ    		pejoguániko      		pembo’éningo
+Ha’ekuéra  	ojoguániko      		ombo’éningo
+
+6.14. Modo narrativo inverosímil: Partículas "ndaje" o su apócope "je" (átona).
+Ejemplos:
+       Verbo Oral     		Verbo Nasal
+Che     		ajavýndaje       		amoĩndaje
+Nde     		rejavýndaje      		remoĩndaje
+Ha’e    		ojavýndaje       		omoĩndaje
+Ñande   	jajavýndaje       		ñamoĩndaje
+Ore     		rojavyndaje      		romoĩndaje
+Peẽ     		pejavýndaje      		pemoĩndaje
+Ha’ekuéra  	ojavyndaje       		omoĩndaje
+
+
+6.15. Modo anhelativo: Expresa el anhelo de que se realice la acción. Utiliza la partícula átona "nga’u".
+Ejemplos:
+                          Verbo Oral    		Verbo Nasal
+Che    		akueránga’u    		amongakuaánga’u 
+Nde    		rekueránga’u    		remongakuaánga’u 
+Ha’e    		okueránga’u    		omongakuaánga’u 
+Ñande   	jakueránga’u    		ñamongakuaánga’u 
+Ore    		rokueránga’u    		romongakuaánga’u 
+Peẽ    		pekueránga’u    		pemongakuaánga’u 
+Ha’ekuéra  	okueránga’u    		omongakuaánga’u
+
+6.16. Modo aparencial: Indica que la acción solo se realiza aparentemente, pero en realidad, no es así. Su partícula "gua’u" es tónica.
+Ejemplos:
+       Verbo Oral     		Verbo Nasal
+Che     		ajevygua’u     		amoñe’ẽgua’u
+Nde     		rejevygua’u     		remoñe’ẽgua’u
+Ha’e     		ojevygua’u      		omoñe’ẽgua’u
+Ñande    	jajevygua’u     		ñamoñe’ẽgua’u
+Ore     		rojevygua’u     		romoñe’ẽgua’u
+Peẽ     		pejevygua’u     		pemoñe’ẽgua’u
+Ha’ekuéra  	ojevygua’u     		omoñe’ẽgua’u 
+
+6.17. Modo pietativo: Denota piedad en lo que se dice o manifiesta. Partícula "anga" (átona).
+Ejemplos:
+       Verbo Oral 		Verbo Nasal
+Che    		ahejá’anga       		añenó’anga
+Nde     		rehejá’anga      		reñenó’anga
+Ha’e    		ohejá’anga       		oñenó’anga
+Ñande   	jahejá’anga      		ñañenó’anga
+Ore    		rohejá’anga      		roñenó’anga
+Peẽ    		pehejá’anga      		peñenó’anga
+Ha’ekuéra  	ohejá’anga      		oñenó’anga
+
+6.18. Modo frecuentativo: Indica que la acción se realiza en forma frecuente. Utiliza la partícula tónica "mante".
+Ejemplos:
+       Verbo Oral     		Verbo Nasal
+Che     		ajeimante        		akirirĩmante
+Nde     		rejeimante        		rekirirĩmante
+Ha’e     		ojeimante        		okirirĩmante
+Ñande    	jajeimante       	 	ñakirirĩmante
+Ore     		rojeimante       		rokirirĩmante
+Peẽ    		pejeimante       		pekirirĩmante
+Ha’ekuéra  	ojeimante        		okirirĩmante
+
+6.19. Modo frecuentativo enfático: indica que la acción se realiza en forma muy frecuente. Su partícula "manterei" es tónica.
+Ejemplos:
+       Verbo Oral      		Verbo Nasal
+Che     		aku’emanterei     	asẽmanterei
+Nde     		reku’emanterei     	resẽmanterei
+Ha’e     		oku’emanterei     	osẽmanterei
+Ñande    	jaku’emanterei     	ñasẽmanterei
+Ore     		roku’emanterei     	rosẽmanterei
+Peẽ     		peku’emanterei    	pesẽmanterei
+Ha’ekuéra  	oku’emanterei     	osẽmanterei
+       
+6.20. Modo frustrativo: Refiere la inutilidad de la acción. Utiliza la partícula tónica "rei".
+Ejemplos:
+       Verbo Oral     		Verbo Nasal
+Che     		akyhyjerei      		añohẽrei
+Nde     		rekyhyjerei      		reñohẽrei
+Ha’e     		okyhyjerei       		oñohẽrei
+Ñande    	jakyhyjerei     		ñañohẽrei
+Ore     		rokyhyjerei     		roñohẽrei
+Peẽ	     	pekyhyjerei      		peñohẽrei
+Ha’ekuéra  	okyhyjerei      		oñohẽrei
+
+6.21. Modo intencional: Indica que se tenía la intención de que la acción se realice, aunque no se realizó. Su partícula "mo’ã" es tónica.
+Ejemplos:
+       Verbo Oral    		Verbo Nasal
+Che      		ajerokymo’ã    		amyimo’ã
+Nde      		rejerokymo’ã    		remyimo’ã
+Ha’e      	ojerokymo’ã    		omyimo’ã
+Ñande   	jajerokymo’ã   		ñamyimo’ã
+Ore      		rojerokymo’ã    		romyimo’ã
+Peẽ       		pejerokymo’ã   		pemyimo’ã 
+Ha’ekuéra   	ojerokymo’ã    		omyimo’ã
+
+6.22. Modo antelativo: Indica que la acción se realizó en forma previa. Su partícula "jepe" es tónica.
+Ejemplos:
+       Verbo Oral		Verbo Nasal
+Che     		ajerurejepe     		ame’ẽjepe
+Nde     		rejerurejepe     		reme’ẽjepe
+Ha’e     		ojerurejepe     		ome’ẽjepe
+Ñande    	jajerurejepe     		ñame’ẽjepe
+Ore      		rojerurejepe     		rome’ẽjepe
+Peẽ      		pejerurejepe     		peme’ẽjepe
+Ha’ekuéra  	ojerurejepe    		ome’ẽjepe
+
+6.23. Modo condicional: Indica lo que hubiera sido hecho. Su partícula átona es "mo".
+Ejemplos:
+       Verbo Oral      		Verbo Nasal
+Che      		ahejámo       		añotỹmo
+Nde      		rehejámo       		reñotỹmo
+Ha’e      	ohejámo       		oñotỹmo
+Ñande   	jahejámo       		ñañotỹmo
+Ore       		rohejámo       		roñotỹmo
+Peẽ       		pehejámo      		peñotỹmo
+Ha’ekuéra   	ohejámo       		oñotỹmo
+
+6.24. Modo aseverativo: Indica la realización de la totalidad de la acción. Su partícula "ma" es átona.
+Ejemplos.
+                  Verbo Oral     Verbo Nasal
+Che            aguerúma         añenóma
+Nde            reguerúma        reñenóma 
+Ha’e           oguerúma         oñenóma
+Ñande         jaguerúma       ñañenóma
+Ore             roguerúma       roñenóma
+Peẽ             peguerúma       peñenóma
+Ha’ekuéra  oguerúma        oñenóma
+
+6.25. Modo inmotivado: Indica que la acción se realiza sin motivo consciente. Su partícula "nte", es átona.
+Ejemplos:
+                  Verbo Oral     Verbo Nasal
+Che            apytu’únte       ambotýnte
+Nde            repytu’únte     rembotýnte
+Ha’e           opytu’únte      ombotýnte
+Ñande         japytu’únte    ñambotýnte
+Ore             ropytu’únte    rombotýnte
+Peẽ             pepytu’únte    pembotýnte
+Ha’ekuéra  opytu’únte      ombotýnte
+
+6.26. Modo usual: indica que la acción del verbo se realiza en forma acostumbrada. Utiliza la partícula átona "jepi".
+Ejemplos:
+                  Verbo Oral   Verbo Nasal
+Che            aguatájepi      amboguéjepi
+Nde            reguatájepi    remboguéjepi
+Ha’e           oguatájepi     omboguéjepi
+Ñande        jaguatájepi     ñamboguéjepi
+Ore             roguatájepi    romboguéjepi
+Peẽ             peguatájepi    pemboguéjepi
+Ha’ekuéra  oguatájepi     omboguéjepi
+
+6.27. Modo confirmativo: Indica  que una acción verbal anunciada se ha cumplido. Utiliza la partícula átona "katu" para verbos orales y "ngatu" para verbos nasales.
+Ejemplos:
+                  Verbo Oral     Verbo Nasal
+Che            ahákatu            añe’ẽngatu
+Nde            rehókatu          reñe’ẽngatu
+Ha’e           ohókatu           oñe’ẽngatu
+Ñande         jahákatu          ñañe’ẽngatu
+Ore              rehókatu         roñe’ẽngatu
+Peẽ              pehókatu        peñe’ẽngatu
+Ha’ekuéra   ohókatu          oñe’éngatu
+
+6.28. Modo intermitente: Indica que la acción se desarrolla con breves intérvalos de tiempo. Utiliza la partícula tónica "mimi".
+Ejemplos:
+                   Verbo Oral        Verbo Nasal
+Che             ahupytymimi      aha’ãmimi
+Nde             rehupytymimi     reha’ãmimi 
+Ha’e            ohupytymimi      oha’ãmimi
+Ñande         jahupytymimi     ñaha’ãmimi
+Ore             rohupytymimi     roha’ãmimi
+Peẽ             pehupytymimi    peha’ãmimi
+Ha’ekuéra  ohupytymimi      oha’ãmimi
+
+Los modos imperativos
+6.29.  Modo imperativo: Indica una orden para que se realice la acción. No tiene partícula sufija y se conjuga con partículas de imperativas o compulsivas de número y persona: e / pe, para la segunda persona del singular y plural; así como las partículas de la conjugación optativas; ta , tere , to, taja, taña, toro, tape, to,  para las demás personas.
+Ejemplos:
+Verbo Oral                Verbo Nasal 
+Tagueraha che            tamboty che
+Teregueraha nde         teremboty nde
+Togueraha ha’e           tomboty ha’e
+Tajagueraha ñande      tañamboty ñande
+Torogueraha ore          toromboty ore
+Tapegueraha peẽ         tapemboty peẽ
+Togueraha ha’ekuéra  tomboty ha’ekuéra
+
+6.30.  Modo imperativo conminativo: Indica orden o mandato. Su partícula átona es "ke", utiliza las partículas de número y persona imperativas o compulsivas: e / pe para la segunda persona del singular y plural; asi como las partículas de la conjugación optativas; ta, tere, to, taja, taña, toro, tape, to, para las demás personas.
+Ejemplos:
+Verbo Oral                Verbo Nasal 
+Tapytáke che              tamono’õke che 
+Terepytáke nde           teremono’õke nde 
+Topytáke ha’e             tomono’õke ha’e 
+Tajapytáke ñande        tañamono’õke ñande 
+Toropytáke ore            toromono’õke ore 
+Tapepytáke peẽ           tapemono’õke peẽ
+Topytáke ha’ekuéra     tomono’õke ha’ekuéra
+
+6.31. Modo imperativo rogativo: Indica un ruego de que se realice la acción del verbo. Su partícula átona "na", utiliza las partículas de número y persona imperativa o compulsivas, estas son: e / pe, para la segunda persona del singular y plural; así como las partículas de la conjugación optativas; ta, tere, to, taja, taña, toro, tape, to, para las demás personas.
+Ejemplos:
+Verbo Oral              Verbo Nasal
+Tahejána che            tañomína che 
+Terehejána nde         tereñomína nde 
+Tohejána ha’e           toñomína ha’e 
+Tajahejána ñande      tañañomína ñande 
+Torohejána ore          toroñomína ore 
+Tapehejána peẽ         tapeñomína peẽ 
+Tohejána ha’ekuéra   toñomína ha’ekuéra
+
+6.32. Modo imperativo amistoso: Indica un pedido amable de que se realice la acción del verbo. Su partícula tónica "mi", utiliza las partículas de número y persona imperativa o compulsiva: e / pe, para la segunda persona del singular y plural; asi como las partículas de la conjugación optativas; ta, tere, to, taja, taña, toro, tape, to, para las demás personas.
+Ejemplos.
+Verbo Oral                   Verbo Nasal
+Tajoguami che              tamombaymi che 
+Terejoguami nde           teremombaymi nde 
+Tojoguami ha’e             tomombaymi ha’e 
+Tajajoguami ñande        tañamombaymi ñande 
+Torojoguami ore            toromombaymi ore 
+Tapejoguami peẽ           tapemombaymi peẽ 
+Tojoguami ha’ekuéra     tomombaymi ha’ekuéra
+
+6.33. Modo imperativo compuesto: Enfatiza el pedido utilizando todas las partículas imperativas "míkena", tónica. Utiliza las partículas de número y persona imperativa o compulsiva: e / pe, para la segunda persona del singular y plural; asi como las partículas de la conjugación optativas; ta, tere, to, taja, taña, toro, tape, to, para las demás personas.
+Ejemplos.
+Verbo Oral                       Verbo Nasal
+Tapytamíkena che             tambyatymíkena che
+Terepytamíkena nde          terembyatymíkena nde
+Topytamíkena ha’e            tombyatymíkena ha’e
+Tajapytamíkena ñande       tañambyatymíkena ñande
+Toropytamíkena ore           torombyatymíkena ore             
+Tapepytamikena peẽ           tapembyatymíkena peẽ             
+Topytamíkena ha’ekuéra    tombyatymíkena ha’ekuéra           
+
+6.34.  Modo indeterminado: Partícula átona "mba’e". Utiliza las partículas de número y persona imperativa o compulsiva, ellos son: e / pe para la segunda persona del singular y plural; así como las partículas de la conjugación optativas; ta, tere, to, taja, taña, toro, tape, to, para las demás personas.
+Ejemplos:
+Verbo Oral                      Verbo Nasal 
+Tahekýimba’e che            tamoĩmba’e che 
+Terehekýimba’e nde         teremoĩmba’e nde
+Tohekýimba’e ha’e           tomoĩmba’e ha’e 
+Tajahekýimba’e ñande      tañamoĩmba’e ñande 
+Torohekýimba’e ore          toromoĩmba’e ore 
+Tapehekýimba’e peẽ         tapemoĩmba’e peẽ 
+Tohekýimba’e ha’ekuéra   tomoĩmba’e ha’ekuéra
+
+6.35. Modo reiterativo: Expresa una acción reitarativa. Su partícula "jey" es tónica.
+Ejemplos:
+Verbo Oral            Verbo Nasal
+Che ajujey              che añenojey
+Nde rejujey             nde reñenojey
+ha’e oujey               ha’e oñenojey 
+ñande jajujey          ñande ñañenojey 
+ore rojujey              ore roñenojey
+peẽ pejujey             peẽ peñenojey 
+ha’ekuéra oujey      ha’ekuéra oñenojey
+
+7. Accidentes de grado de los verbos
+Señala la intensidad de la acción, sea en sí misma o en relación comparativa con otra acción. Se clasifican en:
+7.1. Grado positivo: Constituye el enunciado normal del verbo y sin partícula. 
+Ejemplos: Che apurahéi, nde reñomi.
+7.2. Grado comparativo: de igualdad, de superioridad y de inferioridad.
+7.2.1 Grado comparativo de igualdad: Establece relación de igualdad involucrando al verbo y al sustantivo. No afecta la estructura del verbo, pero sí la del sustantivo. La partícula "icha" (átona), va unida al sustantivo.
+Ejemplos:
+Náti oguata jatytáicha. 
+Okaru vakáicha
+7.2.2. Grado comparativo de superioridad: Establece relación de superioridad entre dos acciones o cosas. Su partícula "ve", tónica, acompaña al verbo y al segundo elemento la posposición átona "gui".
+Ejemplos:
+Che amba’apove Verénagui 
+Oñe’ẽve Natígui
+7.2.3. Grado comparativo de inferioridad: Establece relación de inferioridad entre dos acciones u objetos. Utiliza partícula tónica "‘ive", afectando la estructura morfológica del verbo y la posposición "gui" en el segundo elemento de la comparación.
+Ejemplos:
+Che ajaty’ive ryguasúgui. 
+Amóva ombopu’ive pendehegui.
+7.3. Grado superlativo: Indica una acción intensa y se divide en superlativo absoluto y relativo. Este se vuelve a clasificar en supersuperlativo, superlativísimo y ultrasuperlativo.
+7.3.1. Superlativo absoluto: Eleva la intensidad a primer grado. Utiliza la partícula "ite" cuando el verbo termina en abierta y en "ete" cuando termina en vocal cerrada. Si el verbo termina en "e", se usa la partícula "te".
+Ejemplos:
+Ajasuruete
+Pejekoite
+7.3.2. Supersuperlativo: Eleva la intensidad a segundo grado. Utiliza las partículas tónicas "eterei" con palabras terminadas en vocales débiles y "iterei" en vocales fuertes.
+Ejemplos:
+Omyakỹeterei ijao
+Rejehe’aiterei hese
+7.3.3. Superlativísimo: Eleva la intensidad a tercer grado. Utiliza la partícula tónica "rasa".
+Ejemplos:
+Peẽ pepitarasa
+Ha’e omohe’õrasa
+
+7.3.4. Ultrasuperlativo: Eleva la intensidad al grado máximo. Sus partículas "etereirasa/itereirasa" son tónicas.
+Ejemplos:
+Ha’ekuéra omomorãitereirasa
+7.3.5. Superlativo Relativo: Es una combinación de los grados superlativo y  comparativo.  Sus  partículas  son  "eteve/iteve",  el segundo elemento lleva posposición monosilábica átona "gui".
+Ejemplos:
+Pe kuimba’e ijaguaraiteve mitãgui,
+Che ména iñarandueteve chugui.
+
+Observación
+- Existen otras formas perifrásticas de realizar el superlativo, utilizando sufijos, tales como: "Ikoe", "hendy", "rapo", "korócho".
+Ejemplos:
+Che reindy iporãikoe.
+Pe kuña resa overahendy. 
+Pe tape ivairapo.
+Péva iñate’ỹkorócho.
+
+El ADVERBIO
+Definición: Es la palabra que sirve para modificar a un verbo, a un adjetivo o a otro adverbio.
+Ejemplos:
+Oguata porã. 
+Oho mombyry. 
+Oúta ko’ẽrõ,
+Clasificación de los adverbios
+1. Adverbio de modo: Palabra que indica cómo se realiza la acción verbal. En la oración oficia de complemento circustancial de modo. Así: Oiko pya’e porã,
+Ejemplos:
+Porã: bien 
+Vai: mal
+Mbegue: despacio 
+kóicha: de este modo
+Upéicha: de ese modo 
+péicha: así
+Amóicha: de aquel modo 
+Asy: muy, demasiado
+2. Adverbios de lugar: Son aquellas palabras que indican el lugar donde se realiza la acción verbal. En la oración oficia de complemento circustancial de lugar. Asi: Eike ko’ápe.
+Ejemplos:
+Ápe: aquí
+Upépe (pépe ): allí 
+Amo: allá, allí 
+Mombyry: lejos
+Yvate: arriba 
+Yvýpe: en el suelo 
+Okápe: afuera 
+Pýpe: dentro de
+3. Adverbios de tiempo: Son aquellas palabras que dan idea de tiempo de la acción verbal. En la oración oficia de complemento circustancial de tiempo. Asi: Ogueru ko’ág̃a.    ·
+Ejemplos:
+Voi: pronto 
+Ág̃a: ahora
+Raẽ: primeramente 
+Ramo: si (condicional) 
+Gueteri: aún, todavía 
+Rire: luego
+Márõ: nunca, jamás
+Mboyve: antes 
+Upéi: después 
+Upérõ: entonces 
+Sapy’a: de repente 
+Araka’eve: nunca 
+Kuehe:ayer 
+Ko’ẽrõ: mañana
+4. Adverbio de cantidad: palabra que expresa una idea de cantidad de la acción verbal. En la oración oficia de complemento circustancial. Así: Aguata heta.
+Ejemplos:
+Heta: mucho
+Mbovy: poco 
+Mba’eve: nada
+Rasa: excesivamente
+Michĩ: pequeño 
+Tuicha: grande 
+Sa’i: escaso
+
+5. Adverbio de interrogación: Palabra que se utiliza para interrogar. Pueden ir acompañadas de las partículas sufijas "pa" (átona) o "piko" (átona). Asi: Moõpa reiko. Moõpiko reiko.
+Los más conocidos son:
+Moõ: dónde. 
+Araka’e: cuándo.
+Mba’éicha: cómo. 
+Mba’épa: qué.
+Mba’ére: por que.
+Máva: quién. 
+Mboypiko: cuánto. 
+Mba’ẽrã: para qué.
+
+6. Adverbio de afirmación: Palabra que se utiliza para afirmar la acción verbal. Asi: Néi, ahátama.
+Ejemplos:
+Héẽ: sí (afirmación simple)
+Néi: bueno, acepto 
+Ikatu: puede ser 
+Upéicha: así es
+Avei: sí, también
+Oĩma: de acuerdo 
+Añete: es verdad
+
+7. Adverbio de negación: Palabra que se utiliza para negar la acción verbal. Así: Ani nerasẽ.
+Ejemplos:
+Nahániri: no, (negación simple) 
+Tove: no, (rechazo)
+Anichéne: no (dudoso)
+Ani (anive): no (prohibitivo) 
+Mba’evéicharõ: de ninguna manera 
+Araka’eve: nunca, jamás
+Ne’ĩrã: todavía, aún no.
+
+Observación
+El adverbio carece de accidentes de número y género.
+Ejemplos:
+Che aha mombyry 
+Ha’ekuéra oho mombyry
+
+El adverbio "tove", se puede utilizar como afirmativo o negativo según el contexto.
+Ejemplos:
+Tove toho: no, que se vaya. 
+Tove tou: que venga.
+
+- Es habitual que, en el idioma guaraní, se realice la interrogación con las partículas interrogativas sufijas: "pa", "piko", "tiko", o "tepa". En esos casos, no se usa el signo de interrogación.
+- Para los accidentes de grado del adverbio, se utilizan las mismas partículas sufijas de grados de los sustantivos, adjetivos y verbos.
+Ejemplos:
+Grado positivo: mombyry (sin partícula). 
+Grado comparativo: mombyryve.
+Grado superlativo: mombyryete.
+Grado supersuperlativo. Mombyryeterei. 
+Grado superlativísimo: mombyryrasa.
+Grado ultrasuperlativísimo: Mombyryetereirasa.
+
+EL PRONOMBRE
+El pronombre es la palabra que sustituye al nombre de la persona, el animal o la cosa, dentro de un hecho conocido por el que habla y el que oye. Se lo denomina "marca" o "sustituto". Es un lexema con significado en sí misma.
+Clasificación de los pronombres según su función
+1. Pronombres personales: se refieren a personas que realizan una acción, cuyos nombres no se mencionan.
+Ejemplos:
+Che añenóta.
+Ñande ñañomongeta.
+
+1.1. Pronombres personales como sujeto: Sustituye a las tres personas gramaticales del singular y del plural.
+Singular
+Che: yo.
+Nde: tú, usted, vos. 
+Ha’e: él, ella.
+
+Plural
+Ñande: nosotros/as (incluyente). 
+Ore: nosotros/as (excluyente).
+Peẽ: vosotros/as, ustedes. 
+Ha’ekuéra, hikúai: ellos, ellas. 
+
+Ejemplos:
+Nde reñeno. 
+Peẽ pehóta. 
+Ou hikuái.
+
+1.2. Pronombre personal como complemento directo: Es la 1ª, 2ª o 3ª persona, del singular o plural, que recibe directamente la acción del verbo en una oración.
+Singular
+Che: (a mí)
+Nde/ne, ro (a ti, a vos)
+Chupe, ichupe.
+
+Plural
+Ñande, ñane (nos, a nosotros/as (incluyente))
+Ore (nos, a nosotros/as (excluyente))
+Pende, po, pene (nos, a vosotros, a ustedes)
+Chupekuéra, ichupekuéra (a ellos/a ellas, les/los/las)
+
+Ejemplos:
+Nde cherenói 
+Ha’e ndejuhu
+
+1.3. Pronombre personal como complemento indirecto: Es la que recibe indirectamente la acción de un verbo intransitivo, en 1 ª, 2ª o 3ª persona, del singular o nos/os del plural.
+Singular 
+
+Chéve: me, a mí 
+Ndéve: te, a ti
+Ichupe, chupe: se, a él/a ella, le/la.
+
+Plural
+
+Ñandéve: a nosotros/as, nos (incluyente) 
+Oréve: a nosotros/as, nos (excluyente) 
+Peẽme: a vosotros/as, a ustedes 
+Ichupekuéra/chupekuéra: a ellos/as, les/las.
+
+Ejemplos:
+
+Arami ome’ẽ chéve che aorã. 
+Ajoguáta ndéve ne pohãrã.
+Irene ombo’e chupekuéra guaraní ñe’ẽ.
+
+Observación
+Los pronombres personales pueden oficiar de complemento directo o indirecto.
+Singular
+
+Chehegui: me, de mí 
+Ndehegui: te, de ti
+Ichugui: le/lo, de él, de ella
+
+Plural
+
+Ñandehegui: nos (incluyente) 
+Orehegui: nos (excluyente) 
+Pendehegui: os, de vosotros/as. 
+Chuguikuéra, ichuguikuéra: les, de ellos
+
+Ejemplos:
+
+Oipe’a ñandehegui viru. 
+Reme’ẽ orehegui ore yva.
+Amo ojeguerahákuri pendehegui so’o
+También:
+Singular 
+
+Cherehe: me 
+Nderehe: te, de ti
+Ijehe: se, de él/de ella
+
+Plural
+
+Ñanderehe: nos, de nosotros 
+Orerehe: nos de nosotros 
+Penderehe: os
+Ijehekuéra: de ellos/de ellas
+
+Ejemplos:
+
+Pe mitã oñohẽ ijehe y. 
+Eva ovy’a penderehe
+Jeruti oñe’ẽ porã orerehe
+
+1.4. Pronombres como complementos circunstanciales: Los hay, de lugar y de compañía.
+1.4.1. Pronombres como complementos de lugar: Expresa sitio.
+Singular
+
+Chepype: en mí.
+Ndepype: en ti 
+Ipype: en él/en ella
+
+Plural
+
+Ñandepype: en nosotros (incluyente) 
+Orepype: en nosotros (excluyente) 
+Pendepype: en vosotros/as 
+Ipypekuéra: en ellos/en ellas.
+
+Ejemplo:
+
+Mborayhu oĩ ndepype
+
+1.4.2. Pronombre en función de complemento circunstancial de compañía: expresa el acompañamiento del verbo.
+Singular 
+
+Chendive: conmigo 
+Nendive: contigo.
+Hendive: consigo, con él/ ella.
+
+Plural
+
+Ñanendive: con nosotros/as (incluyente) 
+Orendive: con nosotros/as (excluyente) 
+Penendive: con vosotros/uds./vos.
+Hendivekuéra: con ustedes, con ellos/ellas.
+
+Ejemplo:
+
+Ha’e ou orendive.
+
+2. Pronombres demostrativos: Señalan a la persona, animal o cosa sin designar sus nombres. Utiliza la partícula "va". Dentro de la oración oficia de sujeto o complemento.
+Singular 
+
+Kóva: este/a 
+Péva: ese/a
+Amóva: aquel/lla
+Upéva, aipóva: ese/esa, aquel/aquella (ausentes)
+
+Plural
+
+Ko’ãva/ãva: estos/as. 
+Umíva: aquellos/as.
+
+Ejemplos:
+
+Kóva oñe’ẽ porã. 
+Amóva hova puku. 
+Ko’ãva oguata mombyry. 
+Aipóva oguerúta ama.
+
+3. Pronombres posesivos: Señalan a la persona, animal o cosa poseedora, en vez del sustantivo. Utiliza la partícula "mba’e".
+Singular 
+
+Chemba’e: mío/a. 
+Nemba’e: tuyo/a. 
+Imba’e: suyo/a.
+
+Plural
+
+Ñanemba’e: míos/as (incluyente). 
+Oremba’e: míos/as (excluyente).
+Penemba’e: tuyos/as, vuestros/as. 
+Imba’ekuéra: suyos/as, nuestros/as
+
+Ejemplos:
+
+Pe kavaju chemba’e
+Ko’ã ajaka ñanemba’e
+
+4. Pronombres indefinidos: Palabras que señalan sin precisar a la persona o cosa a las cuales se refieren. Utilizan las partículas sufijas "va" o "ve".
+Singular
+
+Opavave: todo/a. 
+Avave, avavete: nadie. 
+Mba’eve: nada.
+Oimeraẽva: cualquiera. 
+Máva: alguien.
+Ambuéva: otro/a, él que/la que. 
+Oiméva: alguno.
+
+Plural
+Maymáva: todos/as.
+
+Ejemplos:
+
+Opavave okirirĩta.
+Maymáva ohóta nendive ko’ẽrõ.
+
+LA CONJUNCIÓN
+Definición: Es una palabra invariable que relacionan entre sí vocablos, proposiciones y oraciones. En la oración, son considerados conectores o relacionantes.
+Clasificación de las conjunciones
+1. Conjunción copulativa: Se usa el conector "ha" o "ha’e" para unir palabras u oraciones. Equivalen al "y" o "e", del Castellano.
+Ejemplo: 
+Osẽ (Verbo) ha (Conjunción) oguata (Verbo)
+2. Conjunción disyuntiva: Expresan alternativas. En guaraní, son "térã", "ỹrõ", o "ỹramo" que equivalen al "o", "u" del castellano.
+Ejemplo:
+Arami  térã  Anai
+3. Conjunción causal: Son los que expresan razón o motivo. Son: "ajeve", "upévare" y "upeháre".
+Ejemplo:
+Ikane’õ upévare oho
+
+4. Conjunción adversativa: Se usa para contrastar dos ideas. En el inicio afirma y al final niega, también puede al iniciar negar y al final afirmar. Pueden ser: "upéicharõ jepe" o "jepéramo". Equivalen al "pero".
+Ejemplo:
+He’íkuri oguerutaha, jepéramo, hesarái
+
+LA INTERJECCIÓN
+Definición: son expresiones propias del estado de ánimo que sirven para demostrar alegría, susto, sorpresa y otros estados o cambios súbitos del ánimo. Por sí sola ya representa una oración. Pueden ser:
+Clasificación
+2.1. Interjección simple: Son las que tienen una sola raíz o núcleo.
+Ejemplos:
+-Cháke, ho’áta pe mitã.
+-E’a, cheresaraiete.
+-¡Hýpy!, ndevýro,
+-¡Na’ápe!, nde tekorei tuja.
+-¡Nápy!, nde jagua chavi.
+-¡Araka’e!, chera’a.
+
+2.2. Interjección compuesta: Son utilizadas dos o más palabras para expresar un estado de ánimo. Son  frases que contradicen muchas veces a su sentido lógico. Se usa en la ironía.
+Ejemplos:
+¡Nde rasóre!, ou jeýma
+¡Aháta aju! (voy y vengo)
+
+Sorpresa         Rechazo       Hastío
+’A       ’E         Hýpy             Nanga
+’I         ’O        Ejerána          Nangána
+Nde... Hẽ        Ejapína          Nambre
+He’ẽ   E’a       Jagua             Nambréna
+Anichéne        Eguatána       Cherejápe
+Ñandejára       Ndevýro        Chepicha
+Nderasóre
+Haihuepéte
+Ndesapatúre
+Ndesýre
+Nderaitýre                                
+
+Exclamación     Autodefensa      Desautorización
+Ema’ẽmína        Ái                       Aráka
+Ha...                  Aína                    Nangána
+Hiii...                Aípy                    Cherejápe
+A...                   Ich                       Na
+Nde...               Ani...                   Nambre
+E...                   Anive                  Nambréna
+Hýina              Anivéna
+Háina              Anína                            
+
+Expulsivas      De advertencia    De aprobación
+Chíki               Cháke                    Oĩma
+Kúchi              Háke
+Sápe               Aníke
+Sálai               Sýky
+
+De picardía    Despectivas    Exhortativas
+Aichoo            Nangána          Hále
+Ha’éma           Vyrésa             Néike
+Aipópe            Mba                Nápy
+Ahecháma       Pss...               Jápy
+Eréma                                    Néipy
+
+Imprecativas           De resignación
+Añamemby              Amóntema
+Añaraki                   Adiómante
+Añaraitýpequare     Aichejáranga
+Añame’ũ                 Nákore        
+
+Observación
+- Las interjecciones según el uso, pueden mostrar los siguientes sentimientos o estados de ánimo.
+- Existen también otras frases o expresiones interjectivas, tales como:
+Che Dio 
+Nde výro 
+Ajépa nde
+Terehóna embojahu pira 
+Mba’e jajapóta
+Nda’ipóri jajapova’erã
+
+
+LAS POSPOSICIONES
+Definición: Son las que van después de la palabra, como conector que completa el sentido Equivalen a las preposiciones del castellano.
+Ejemplos:
+Ahátama ógape.      Voy a casa
+Posposición (pe).     Preposición (a).     
+
+Ou isy ndive.             Vino con su madre
+Posposición (ndive).  Preposición (con).
+
+Clases
+La clasificación depende del número de sílabas de las posposiciones.
+1. Posposiciones monosilábicas: Las posposiciones tienen una sola sílaba y por regla de la ortografía deben ir unidas a la raíz. Pueden ser:
+pe (me): a, en.
+gua: de. 
+gui: de. 
+re: por.
+ndi: con (apócope de "ndive").
+
+Ejemplos:
+
+Peru oho kuehe Ka’akupépe.
+Ha’ekuéra ogueru chipa Paraguarígui.
+
+2. Posposiciones polisilábicas: Son aquellas posposiciones que tienen dos o más sílabas en su estructura y se escriben separadas de su regente. Las más usadas son:
+Guive: desde.
+Hag̃ua: para (usada con verbo). 
+g̃uarã: para (usada con sustantivo). 
+Peve (meve): hasta.
+Ári: sobre. 
+Rire: después. 
+Rupi, rehe: por. 
+Ndive: con.
+Rehe’ỹ: sin
+Gotyo: hacia
+
+Ejemplos:
+
+Mombyry guive aju ne rendápe
+Ou okaru hag̃ua
+Kalo oho isy ndive Paraquaýpe
+
+CUARTO CAPÍTULO
+
+LA SINTAXIS
+
+Sintaxis: es la parte de la Gramática que estudia el orden y la relación de las palabras en la oración, así como las funciones que cumplen dentro de la misma.
+Características de la sintaxis guaraní
+En la construcción sintáctica guaraní, algunas palabras al agregarle morfemas que señalan sus accidentes, sufren cambios de posición para añadir matices en la significación.
+Los mecanismos son:
+Desplazamiento: Hay partículas o palabras que se desplazan de su lugar para ocupar otro sitio en la oración. Los que se colocan inmediatamente después del verbo, cambian de sitio para dar lugar al adverbio, al adjetivo, u otra palabra en la oración.
+Ejemplos:
+Arami ojoguave ao isýgui 
+Arami ojoguaporãve ao isýgui 
+Eñe’ẽke chupe
+Eñe’ẽmike chupe
+
+Supresión de palabras: que podrán ser de una posposición o una conjunción del primer miembro.
+Ejemplos:
+Rejúramo térã reju’ỹramo 
+Reju térã reju’ỹramo 
+Kirito ha José ha María 
+Kirito, José ha María
+
+Repetición de partículas o palabras: Son reiteraciones para dar mayor claridad, énfasis o precisión a la expresión.
+Ejemplos.
+Oiporujey pe ñe’ẽ 
+oiporujeyjey pe ñe’ẽ 
+ohai ñe’ẽpoty peteĩ 
+ohai ñe’ẽpoty peteĩteĩ 
+oñe’ẽ sogue
+oñe’ẽ soguesogue
+
+Relación de las palabras
+Las palabras se relacionan entre sí de dos maneras fundamentales; pueden ser.
+Relación paradigmática:  Constituye un grupo de palabras que se oponen entre sí y se excluyen mutuamente.  Generalmente se utiliza en la enumeración, la gradación, el inventario de cosas y las familias de palabras.
+Ejemplos:
+Ahecha kuarahy, jasy, mbyja ha opaite ára rehe oĩva (enumeración).
+Umi ipo haku, hakuvy, ho’ysã, ho’ysãmimbi (gradación). 
+Ápe oĩ Arami, temimbo’e, mbo’ehaópe (aposición).
+
+Relación sintagmática: Las palabras valen según su relación con las demás y se relacionan entre sí para constituir frases y oraciones, de forma lineal y sucesiva.
+Ejemplos:
+Amo yvoty porã guasu aipota.
+
+Unidades sintácticas
+La sintaxis reconoce dos tipos de unidades: materiales y funcionales.
+Las unidades materiales son: la palabra, la frase, la proposición, la oración y el discurso.
+Las unidades funcionales son: el sujeto y el predicado y el sintagma.
+La palabra: es una unidad materia y aislada que responde a una función. Es denominada también "monema", es una unidad que agrupa al lexemas y morfemas.
+La frase: Se forma con el relacionamiento lineal de dos o más palabras entre sí, con el fin de comunicar un mensaje, generalmente se encuentra formando parte de unidades sintácticas mayores.
+Ejemplos:
+Yva aju porã
+Yva aju porã agueru
+
+La proposición: es una unidad lingüística, autónoma, independiente con sentido completo, que puede unirse a otras unidades más complejas.
+Ejemplo:
+Pe jagua guasu
+
+La oración: La oración gramatical es la unidad lingüística independiente que tiene la función de comunicar un mensaje con significado completo. Se realiza oralmente entre pausa y pausa y con la entonación debida, mientras en la cadena escrita va entre punto y punto. Sus elementos fundamentales son: el sujeto y el predicado; y este último a su vez se compone de verbos y complementos.
+Existen también oraciones sin verbo conjugado que, sin embargo, denotan un sentido completo.
+Ejemplos:
+Amo karai marangatu ohókuri kokuépe (Ñe’ẽtévare)
+Kóva che róga ha amóva nde róga (Ñe’ẽtéva’ỹre)
+
+El discurso: Es la sucesión contínua y lineal de oraciones, secuencia de lo que se dice hablando o escribiendo.
+
+Unidades funcionales en la oración
+1. El sujeto: Es la persona física, jurídica, ficticia, divinidad, animal físico o fantástico u objeto real o imaginario del cual se ocupa la oración.
+Ejemplo:
+(Pe mitã) iñakãhatã ko’ẽ guive (de quien se habla aquí? De ese niño)
+1.1. Elementos del sujeto
+1.1.1. Núcleo: es la parte central del sujeto.
+Ejemplo:
+Amo kuñakarai Katupyry Ñembygua omba’apo.
+1.1.2. Complementos: son los que modifican al núcleo del sujeto. Por lo general oficia de sujeto el nombre/sustantivo, pero pueden ser también adjetivos calificativos, demostrativos, posesivos, numerales o indefinidos.
+Ejemplos:
+Amo kuñakarai  Miño katupyry Ñembygua omba’apo. /comp. determinativo (Amo)
+Amo kuñakarai  Miño katupyry Ñembygua omba’apo. /comp. apositivo (kuñakarai)
+Amo kuñakarai  Miño katupyry Ñembygua omba’apo. /comp. atributivo (katupyry )
+Amo kuñakarai  Miño katupyry Ñembygua omba’apo. /comp. diferencial o especificativo (Ñembygua )
+
+2. El predicado: Es todo cuanto se dice del sujeto en una oración. El predicado es "nominal" cuando atribuye al sujeto una cualidad y "verbal", cuando señala una acción del sujeto. Generalmente el núcleo es el verbo que puede contar a su vez con complementos.
+Ejemplo:
+Pe mitã iñakãhatã ko’ẽ guive.
+2.1. Complementos del verbo
+2.1.1.Complemento directo: es el complemento que recibe directamente la acción del verbo. Responde a la pregunta "mba’e" o "mba’épa".
+Ejemplo:
+Che ru ojogua chéve kyha.
+2.1.2. Complemento indirecto: es el complemento que recibe indirectamente la acción del verbo, a través de otro complemento directo. Responde a la pregunta "mávape", avápe
+Ejemplo:
+Che ru ojogua chéve.
+2.1.3. Complemento circunstancial: indica la circunstancia en que se realiza la acción del verbo y puede indicar: tiempo, modo, lugar, compañía, causa, fin, etc.
+Ejemplos:
+Amo karai ojogua ao kuehe (araguáva) 
+Pe kuñataĩ oguata porã. (tekoguáva) 
+Che sy oiko mombyry (tendaguáva)
+Peru ojoguákuri ao nendive (oporomoirüva)
+
+El sintagma
+Es una unidad funcional constituida por una palabra o un grupo de palabras que, en conjunto y con sentido unitario, desempeña una función específica en la oración, dentro de la cual tiene autonomía relativa y mutabilidad, sin cambiar el mensaje de la oración.
+Hay diversas clases de sintagmas, siendo las más conocidas el "sintagma nominal" y el "sintagma verbal", cuyos núcleos son el nombre y el verbo.
+Los sintagmas tienen la característica de la mutabilidad de su lugar dentro de la oración, sin que ello implique cambio alguno en su función. Es el hablante, constructor de la oración, quien los ordena, les asigna los lugares y por lo general, adelanta el sintagma que es de su mayor interés, señalar.
+Ejemplo:
+En el siguiente ejemplo, se identifican tres sintagmas:
+Maria     oho            mbo’ehaópe.
+Téra       Ñe’ẽtéva    Moĩmbaha
+
+Esta oración de tres sintagmas puede adoptar seis formas sintácticas sin cambiar de contenido semántico y sin que los sintagmas sufran cambios de funciones.
+Ejemplos:
+Maria oho mbo’ehaópe. 
+Maria, mbo’ehaópe oho.
+Oho Maria, mbo’ehaópe.
+Oho mbo’ehaópe Maria.
+Mbo’ehaópe, Maria oho. 
+Mbo’ehaópe oho Maria.
+
+Clases de oraciones
+1. Oración simple: Es aquella que lleva un solo verbo conjugado. Se vuelven a clasificar en:
+1.1. Oración enunciativa: Es aquélla en la cual se afirma o se niega algo. De esa manera se forman las oraciones afirmativas y negativas.
+Ejemplos:
+Pe chokokue oka’api pya’e (omoneĩva) 
+Che memby ndokaruséi. (ombotovéva)
+
+1.2. Oración interrogativa: Es aquélla en la cual se pregunta algo: Utiliza las partículas de interrogación "pa" o "piko" u otra partícula interrogativa.
+Ejemplos:
+Rejútapa ko’ẽrõ
+Oguerúpiko hyrurã
+Mávapa ou
+
+1.3. Oración imperativa: Es aquella que indica orden o mandato y puede llevar las partículas: mi, ke, na, solas o combinadas.
+Ejemplos:
+Anive reñeno
+Eju pya’e
+Tereho
+Ejúke ápe
+Eguerumi
+Eipe’ána
+Ejumína ápe
+Ejumíkena ko’ẽrõ
+
+1.4. Oración desiderativa: Es aquella en la que se expresa deseo. Lleva la partícula verbal de modo volitivo "se" o "nga’u"
+Ejemplo:
+Ahase ne rendápe che jarýi
+1.5. Oración dubitativa: Es aquélla en la cual se expresa duda. Lleva la partícula "ne", o "mba’e",
+Ejemplos:
+Nde rajy aúne ko’ẽrõ, aje
+Ikatúko oúmba’e ko’ẽrõ.
+
+1.6. Oración simple exclamativa: Es aquélla en la cual se admira una cosa.
+Ejemplos:
+Iporãitépa pe nde ao.
+Iporãrasa ko óga.
+
+2. Oraciones compuestas: Son aquellas que constan de varias oraciones simples. Según el tipo de relación o unión que tengan las oraciones entre sí, pueden ser:
+2.1. Yuxtapuestas: Son aquéllas unidas por signos de puntuación y que poseen un mismo valor sintáctico. La cantidad de verbos determinan las oraciones existentes. Los signos de puntuación pueden ser: la coma, el punto y coma o dos puntos.
+Ejemplo:
+Nimuendaju osẽ, oho, oñani tapére.
+2.2. Coordinadas: Son dos o más oraciones relacionadas entre sí mediante conjunciones. Se vuelven a dividir en:
+2.2.1. Coordinadas copulativas: Son dos o más oraciones relacionadas entre sí, mediante la conjunción "ha" o "ha’e".
+Ejemplos:
+Jeruti osẽ ha oguata.
+Oñepyrũ oñe’ẽ ha’e upéi ipochy.
+
+2.2.2. Coordinadas disyuntivas: Son dos o más oraciones relacionadas entre sí, mediante las conjunciones "ỹrõ" o "térã", 
+Ejemplos:
+Ana oguata térã oñani.
+Ana oguata ỹrõ oñani.
+
+2.2.3. Coordinadas adversativas: son dos o más oraciones relacionadas en forma de oposición, mediante las partículas "upéicharõ jepe", "jepéramo (jepémo )",  márõ, jepe, upéicharõ, etc.
+Ejemplos:
+Oñeno, upéicharõ jepe ndopytu’úi
+Jepémo okaru nahyg̃uatãi.
+
+2.2.4. Coordinada distributiva: cuando las oraciones se relacionan en forma alternada o de exclusión.
+Ejemplos.
+Ekirirĩ, ág̃a rehendúta.
+Nde repurahéita, ambue ojerokýta.
+
+2.2.5. Coordinada causal: cuando expresa la relación de causa y efecto, a través de conjunciones causales.
+Ejemplos:
+Ndereipotái ajeve nderejoguái.
+Cherechaga’úpa ajeve reju.
+
+2.2.6. Coordinada consecutiva: cuando expresa consecuencia por medio de conjunciones, tales como: "Upévare, upévagui", etc.
+Ejemplos:
+Ndekatupyry upévare rejapóta. 
+Oky, upévagui, nasẽséi. 
+
+2.3. Oración subordinada: Son dos o más oraciones compuestas que manifiestan una relación de dependencia. Tienen como elementos una oración independiente, y otra dependiente o subordinada, que carece de sentido completo sin la oración principal.
+2.3.1. Subordinada sustantiva: es aquella que desempeña en la oración compuesta, la misma función que un sustantivo en la oración simple. Pueden hacer de sujeto, (se identifica con la pregunta máva), complemento directo (se identifica con la pregunta mba’e) y con una posposición nominal de complemento indirecto (se identifica con la pregunta mávape). Se forman con las partículas "ha", "hague", "va", "va’ekue" o "va’erã".
+Ejemplos:
+Cherayhúva ojapóne che rembipota. (máva: como sujeto)
+Reikuaa porã  maymáva ñamanova’erãha. (mba’e: como complemento directo)
+Nde rembohasava’era nde po oikotevẽvape. (mávape: como complemento indirecto)
+
+2.3.2. Subordinada adjetiva: es aquella que hace de complemento del sustantivo en la oración principal, y se relaciona con él, por medio de las partículas verbales adjetivantes: "va", "va’ekue", "va’erã", "ha", "hague".
+Ejemplo:
+Kuñataĩ ojerokýva hendive ohejarei chupe
+
+2.3.3.  Subordinada  adverbial:  es aquella que hace de complemento circunstancial del verbo en la oración principal, indicando circunstancias de: tiempo, lugar, causa, modo, condición y fin.
+Ejemplos:
+Rekarupa rire, eju jey che rendápe (araka’e: araguáva)
+Oiméne reheja haguépe (moõ: tendaguáva)
+Che cheangekói nog̃uahẽi rupi (mba’ére: mba’ereguáva)
+Rejapóta ajerurre haguéicha (mba’éicha: tekoguáva)
+Aháta ndepiári nderejúirõ (mba’éicharõ: ramóva)
+Oho hógape opytu’úvo (ma’erã: ma’erãguáva).
+
+La Sintaxis Figurada
+Es la que enseña el uso de las figuras literarias para dar a la expresión del pensamiento más vigor y elegancia. Algunas de ellas son:
+Antítesis: Opone dos ideas o palabras de sentido opuesto para realzar la expresión.
+Ejemplo:
+Omimbi ha iñipytũva, nde resa kuarahy’ã
+(Teodoro S. Mongelós)
+
+Apóstrofe: es aquella expresión que se le dirige a la segunda persona directamente en medio de una alocución o discurso.
+Ejemplo:
+Ha... Solano López karia’y añete tetã rehayhúva
+Rovy’ava’erã ndeichagua yvy ári oimérõ mokõi.
+
+Comparación: establece una relación de semejanza entre dos elementos, unidos por un nexo comparativo que pueden ser "icha", "ha’ete", "ojogua" etc.
+Ejemplo:
+Pe mitãkuña yvotýicha iporã.
+Hipérbole: consiste en la exageración de las ideas.
+Ejemplo:
+Ni amano rire naimo’ãi che korasõ opytu’u.
+Metáfora: asociación de dos palabras o ideas basadas en la relación de semejanza, identificándo una con la otra sin nexos materiales.
+Ejemplos:
+Ha... che reindy okaraygua 
+kóga poty porãite
+nde ko tajy apytere.
+(Teodoro S Mongelós)
+
+Personificación: Consiste en atribuir cualidades, sentimientos y acciones propias del hombre a seres inanimados, animales o vegetales.
+Ejemplo:
+Vevúi asy nde keguýpe
+Hasẽrõ che mbaraka (Teodoro S. Mongelós)
+
+Observación
+Las figuras de construcción son las que logran unir correctamente las palabras, de manera que tengan sentido y sean comprendidas sin dificultad. Algunas son:
+Elipsis: consiste en no expresar algunos elementos de la oración, pues el contexto lingüístico o situacional permiten al destinatario comprender la comunicación.
+Ejemplo:
+Resẽta chendive. (nde)
+
+Pleonasmo: es el empleo de vocablos innecesarios, pero con los cuales se pretende dar mayor fuerza a la expresión.
+Ejemplo:
+Che resa rupiete ahecha.
+
+Hipérbaton: Consiste en la movilidad de ciertos elementos sin variar el sentido de la oración.
+Ejemplos:
+Peíto ou kuehe. 
+Kuehe ou Peíto. 
+Ou kuehe Peíto.
+
+QUINTO CAPÍTULO
+ORÍGEN DE LAS PALABRAS
+
+Las palabras pueden tener diversos orígenes.
+Genuinos o clásicos: son palabras originadas en la lengua misma, en tiempos inmemoriales. Se identifican por utilizar los fonemas propios del idioma, especialmente los más antiguos y los más exclusivos del idioma.
+En guaraní son generalmente aquellas que utilizan los fonemas /y/, /ỹ/, las vocales nasales y el puso.
+Ejemplos:
+Yvy, pytã, hovy, petỹ, he’ẽ, jasy, kuarahy.
+
+Vulgarismos: son palabras de creación popular anónima, espontánea y reciente. 
+Ejemplos de vulgarismos:
+Aráka: nunca, jamás
+Guaránia, género músical paraguayo
+Váiro/a: feo/a
+Revíro: harina frita
+Víro: repetir la comida 
+Kelembu, insignificante 
+Kéle, ordinario
+Vichea: pispar
+Matúla: avío
+Purete: extraordinario
+Jarýi: excelente
+
+Cultismos: son palabras extraídas de las mismas raíces del idioma. 
+Ejemplos:
+Palabras del dialecto del Paĩ- tavyterã
+Ñepiarõ: analizar 
+Jeapykuerehu: evaluar lo hecho 
+Mboesaja’o: descubrir, develar 
+Jogueroayvu: dialogar 
+Jeasojavo: nacer
+Guerojera: exponer, desarrollar la idea 
+Mbopóy: internalizar, aprehender 
+Jopohu: visitarse
+Mbojehu: crear 
+Mboesaja: alumbrar 
+Jepei’y: cooperar 
+Ñeangu: fastidiar
+Ñe’ẽkatukue: sabiduría acumulada
+Jekoaku: dieta alimentaria 
+Kag̃ui: cerveza, chicha 
+Mba’epoasy’a: contagiar 
+Jasuka: materia primigenia 
+Jasukávy: semen (del hombre) 
+Guapykávy: óvulo (de la mujer) 
+Pyteno: extender hacia delante
+Pypira: extender hacia los costados
+Jeporaka: mariscar, cazar 
+Amba, ambári: morada celestial 
+Yváy, yvakua: morada celestial
+Mba’emeg̃uã: males apocalípticos
+Pa’ikuara: Dios, cuya morada está en el sol
+Yvangusu: Dios cuya morada está en la luna 
+Yvyjekoka: sostén, eje de la tierra
+Tekojekoka: sostén de la vida
+Mbaíry: extranjero, no indígena
+(ai) ma’ẽi: repartir
+Tapi’i: tapir (guaranismo en castellano)
+Mba’erendu: estudiar
+
+Arcaísmos: Son palabras del idioma caídas en desuso pero que se hace necesario investigarlas y recopilarlas para la restauración de la lengua.
+Ejemplos:
+Apyka: asiento
+Maitei: saludo
+Irundy: cuatro
+Ava: hombre, persona.
+
+Neologismos: son palabras creadas para designar fenómenos u objetos antes inexistentes, y por consiguiente, innominadas en la lengua. Las palabras así creadas funcionan cuando responden a necesidades técnicas, tales como las que usamos en la enseñanza de la gramática.
+Ejemplos:
+pu’ae: vocal
+pundie: consonante
+
+Préstamos  léxicales:  Son  palabras provenientes de otras lenguas que se incorporan a la lengua receptora. Por este mecanismo una lengua adquiere nuevas palabras y enriquece su léxico.
+En el guarani del Paraguay la mayor cantidad proviene del castellano, por ser la lengua de más contacto con el guaraní en el país, pero también existen palabras provenientes de otras lenguas.
+Ejemplos de hispanismos:
+Kavaju, caballo
+Ovecha , oveja 
+Mburika, borrica 
+Votõ, botón 
+Sapatu, zapato 
+Kosina, cocina 
+Ovetã , ventana 
+Chápa, chapa
+Vaka,vaca
+Kavara, cabra 
+Káso, caso 
+Vosa, bolsa 
+Kamisa, camisa 
+Kochõ, colchón
+Aramboha, almohada
+chóke, choque
+
+Palabras que provienen de otras lenguas:
+Lekaja, el viejo, mi viejo
+Lepiju , el viejo, mi viejo
+(a) chuta, chutar (la pelota)
+Chipa, torta de maiz
+Mínga, cooperación
+Chéke, cheque
+Lechãi, la vieja, mi vieja
+(a) chulea, engatuzar
+Kasíke, líder, jefe
+Chína, mujer
+
+Observación:
+Existen frases calcadas, como los siguientes Ejemplos:
+Tuka’ẽ: tu caes.
+Ensuguy: hipócrita (de: en - su - guy, "el que tiene en su interior algo escondido").
+Simapéna: despreocupado/da (de "sin más pena")
+Paranáda: incapaz (proviene de "para nada vale")
+
+SEXTO CAPÍTULO
+GUÍA PRÁCTICA PARA RECUPERAR LA SINTAXIS GUARANÍ
+
+Este es un capítulo muy necesario en esta primera gramática oficial. Nuestra lengua está muy invadida por la sintaxis castellana y es imperioso hacerla volver a sus orígenes, a su verdadera sintaxis, a la propia de ella.
+Creemos que una guía práctica puede ayudar mucho o por lo menos crear conciencia de que la pureza de una lengua no está en su léxico sino en su construcción sintáctica.
+
+Péicha ja’eva’erã - Como debe decirse
+1 - Ñañombyatýta ko’ẽrõ.
+2 - Rojogueroko’ẽ ógape.
+3 - Roñombovy’a.
+4 - Cheremimongarukue.
+5 - Amba’eporandusemi.
+6 - Tapicha ikatúva ojapo upéva.
+7 - Mokõi jey pojojuhu.
+8 - Roñomongetañepyrũ.
+9 - Roñomongeta ramo guare.
+10 - Mba’épa jajapovekuaa.
+11 - Guarani niko hetepyrusu.
+12 - Nachemaranduhaíri.
+13 - Oipota ñaipytyvõmí
+14 - Pohenduse.
+15 - Mba’épa tembiaporã.
+16 - Oñemba’apóta vove.
+17 - Jajokupyty hag̃ua.
+18 - Ñamba’apóta vove.
+19 - Omba’eporanduva’ekue.
+20 - Omba’apo hag̃ua.
+21 - Omba’apo pya’emive.
+22 - Oñeñemohembiporu hese.
+23 - Ñañepytyvõuka.
+24 - Hembiapokue heta.
+25 - Hekoitépe ojeporu.
+26 - Che’aravopáma.
+27 - Amoneĩse.
+28 - Ikuatiápa.
+29 - Ojegueroikéta tembijerure.
+30 - Oñeñombyatykakuaáta Volíviape.
+31 - Ndachevirúi / chesogue.
+32 - Oñemboheraguapy hag̃ua
+33 – Oñekotevẽgui.
+34 - Ñañemoamandaje jeýtama.
+35 - Ojehechakuaaguasúvo.
+36 - Oñemombo’y jeguaka.
+37 - Japoromombo’y jeguaka
+38 - Mba’e aravótiko.
+39 - Oime peteĩ mba’e ojejerureva’ekue.
+40 - Oñeñombyatymava’erã.
+41 - Ana oñe’ẽse. 
+42 - Ikuatia’atã.
+43 - Oporombokuati’a’atã.
+44 - Ojeporavómakuri.
+45 - Eñemboheraguapy.
+46 - Ñane’apañuái.
+47 - Oipysyrõ hetáma guaraníme.
+48 - Ñane rembiapo.
+49 - Odefendeva’ekue ñane ñe’ẽ. 
+50 - Roñombyaty jave.
+51 - Ojehekovekuekuaauka.
+52 - Ñañomongeta ñepyrũ hendive.
+53 - Oporombo’e mbarete ha ohayhukave guarani.
+54 - Hemianduheta.
+55 - Oñoha’ãnga’apo.
+56 - Oreko hembiapopy ñoha’angarãva.
+57 - Hembiapo.
+58 - Añe’ẽseve.
+59 - Amba’apo guarani jehayhukáre.
+60 - Imba’erechakuaa orendive.
+61 - Ndajahejái chupe oñe’ẽ.                   /
+62 - Oikuaapa sapy’aitépe.
+63 - Mba’e ojejapóva guive ko’ápe.
+64 - Ndojehepyme’ẽi.
+65 - Ko’ẽreíre oñeporandu chéve.
+66 - Guaranígui ndapoichéne araka’eve.
+67 - Ajepy’apy apytávo.
+68 - Tañanembopo’a, tañanembopy’aguasu ha tañanemombarete.
+69 - Jajepopete kakuaa mokõivévape.
+70 - Jaiporavoñepyrũma.
+71 - Ipa’ũ.
+72 - Oñeñemboheraguapyjoaitéma.
+73 - Omyakãkuaa hag̃ua / Omandakuaa hag̃ua.
+74 - Ja’aguyjeme’ẽmi.
+75 - Ñandejára ñanemo’arandúta.
+76 - Ha’e ombarakapu.
+77 - Oñemboheraguapyva’erã.
+78 - Tahesãí ha tovy’a.
+79 - Ñandejára nombotovéiramo
+80 - Ndojesaupíri
+81 – Emboy’úke
+82 - Ikatúpa aporandumi mokõi mba’e
+83 - Ñañombyatýta
+84 - ko arapy sarambípe tajavy’aite
+85 - Ambyasy mbo’ehára nendive
+86 - Tupãme ajerure tanemoingove pukuete
+87 - Ajepyhéita
+88 - Ajepohéita
+89 - Tembi’u nda’iso’óiva / Tembi’u iso’o’ỹva
+90 - Roipojopy
+91 - Ndachearavóinte
+92 - Ñandejára nemombareténe
+93 - Ajogapóta                     !
+94 - Añeakãky’óta
+95 - Ajaojohéita
+96 - Jaterere
+97 - Jaka’ay’u
+98 - Cheakãrasy
+99 - Amboaguyjéta
+100 - Chembopo’a
+101 - Añeakãky’óta
+102 - Heta amba’e jogua
+103 - Chekyhyje
+104 - Amba’eporanduse ndéve
+105 - Chemombyry ndehegui
+106 - Karai oterere
+107 - Che sy chembojopói
+108 - Omopararã’ỹre
+109 - Ikatupyry
+110 - Ohechakuaa chéve
+
+
+ORIENTACIONES
+ORIENTACIONES BÁSICAS PARA LA ESCRITURA EN LENGUA GUARANÍ
+
+La Academia de la Lengua Guaraní establece orientaciones básicas para la escritura en guaraní.
+1. La utilización del sistema alfabético que contiene los siguientes grafemas: a - ã - ch - e - ẽ - g - g̃ - h - i - ĩ - j - k - 1 - m - mb - n - nd - ng - nt - ñ - o - õ - p - r - rr - s - t - u - ũ - v - y - ỹ - ’ . La Academia de la Lengua Guaraní adoptó como alfabeto las 33 letras para representar los sonidos patrimoniales del guaraní. Y agregó, para los casos de préstamos, los signos "Ll", "D" y "F", como letras no patrimoniales del guaraní. 
+2. Los sonidos representados por los grafemas D, F Ll, contenidos en los préstamos lingüísticos se integrarán a la lengua receptora (guaraní), siempre y cuando formen sílabas directas. Estos grafemas conservan sus nombres de origen (de, efe, elle).
+Ejemplos:
+Llantar: Ollanta che auto. 
+Deber: Odeve heta chéve. 
+Fifi: Che reindy ififieterei.
+
+3. La escritura de palabras con letra Rr (rre), en posición inicial, preferiblemente se realizará con una sola "r" (re).
+Ejemplos:
+Rósa: Oime ipoty che rósa iporãvéva.
+Réi: Karai réi vy’apópe oikove.
+
+En cambio, en posición medial, se escribe como dígrafo. 
+Ejemplos:
+Fárra: Jaha farrahápe.
+Karretílla: Jagueroja yvyku’i ko karretíllape.
+
+4. Las posposiciones monosilábicas se escriben unidas a las palabras que las anteceden: pe (me), gua, gui, re, ỹ, guy, ndi.
+
+5. Las posposiciones polisilábicas se escriben separadas de las palabras que las anteceden: ári, rupi, rehe, gotyo, ndive, rovái, jepe, guive, hag̃ua, g̃uarã, rire, aja, peve (meve), jave.
+6. Los pronombres personales compuestos se escriben uniendo sus elementos formantes.
+Ejemplos: cherehe, orendive, chehegui, chepype, penemba’e.
+7. Se utiliza el acento gráfico (´) cuando la vocal sobre la que recae la mayor intensidad (vocal tónica) no se encuentra en posición final.
+Ejemplos:
+Ára.
+Sapukái.
+
+8. La marca nasal ( ~ ) se utiliza según los requerimientos de la tonalidad nasal, siempre que la vocal nasal forme sílaba con una consonante oral.
+Ejemplos:
+Perõ
+Tetã
+
+Las vocales que forman sílaba con consonantes nasales no requieren marca de nasalidad.
+Ejemplos:
+Ko’ág̃a
+Ñaña
+
+9. Corresponde escribir la consonante glotal, puso(’), en posición inicial del lexema, cuando se constate su presencia, ya sea en palabras originarias del guaraní o en préstamos integrados al sistema. Ejemplos: ’a, ’ára, ’ã, ’u, ’y, ’y’u, ’ýva, ’yta.
+10. Los morfemas de interrogación: -piko/-pa/-tepa/-pipo/-tiko, se escriben unidos a la palabra regente. En guaraní, no se utiliza el signo auxiliar de interrogación en los enunciados interrogativos.
+Ejemplos:
+Mba’érepiko ndoúi nde ryvy. 
+Moõpa pehóta ko’ẽrõ.
+Mba’éichatepa ojehu ko’ã mba’e.
+
+11. Los elementos léxicos (lexemas y morfemas) que se repiten (reduplicación) se escriben en una sola estructura.
+Ejemplos:
+Ouou
+Jaguerugueru
+Peteĩteĩ 
+Guasuguasu 
+Ohaigua’ugua’u
+Oujeyjey
+
+12. Se debe respetar la construcción sintáctica propia de la lengua guaraní: anteponer el regente al regido, evitar los calcos sintácticos.
+Ejemplos:
+La casa de Juan: Juan róga.
+La calle de mi casa: Che róga rape.
+Lavo mi ropa: Ajohéi che ao: Ajaojohéi. 
+Me duele la cabeza: Hasy che akã: Che cheakãrasy.
+
+13. El tratamiento del plural en guaraní es marcadamente contextual. Por ello, al pluralizar los enunciados en guaraní, se considerarán las siguientes recomendaciones:
+- Si al lexema antecede determinantes como umi, ko’ã, ã, no es necesario emplear los morfemas sufijos -kuéra/-nguéra, -ita/­eta.
+Ejemplos:
+Umi mitã
+Ko’ã kóga
+Ã yvyra
+
+- Considerando la existencia del plural genérico en guaraní, se recomienda no abusar del uso de las partículas pluralizantes en las traducciones.
+Por ejemplo: "pu’ae" se puede traducir como "la vocal" o "las vocales"; "pundie", se puede traducir como "la consonante" o "las consonantes". No hace falta traducir como "pu’aekuéra" o "pundiekuéra".
+14. Se recomienda el uso de "kuimba’e" para indicar masculino de los sustantivos que aluden a personas y "kuña" para el femenino. En casos de los animales, usar "kuña" para indicar el femenino y para el masculino, "mácho".
+Ejemplos:
+Mitãkuimba’e (mitã+ kuimba’e).
+Mitãkuña (mitã+ kuña).
+Kavaramácho (kavara + mácho). 
+Kurekuña (kure + kuña).
+
+15. En la escritura, se recomienda privilegiar la forma plena de las palabras que van modificando su estructura silábica en la oralidad.
+Ejemplos:
+Túva (Túa) 
+Upéva (Upéa) 
+Ndive (Ndie) 
+Amóva (Amóa)
+Ndoúi gueteri (Ndoúiti)
+
+16. La lengua ha incorporado neologismos  en el proceso de enriquecimiento léxico y terminológico. La Academia de la Lengua Guaraní aprobó 129 préstamos lingüísticos y 135 neologismos técnicos, en fecha 06 /11/2019.
+LISTA DE HISPANISMOS APROBADOS EN SESIÓN PLENARIA DEL 06.11.19
+A - a
+                 
+Aguéla              
+Aguélo              
+Ahógo               
+Aléna                
+Amenáso              
+Arádo                
+Aramboha             
+Aramirõ              
+Arína                
+Arro                 
+Asáda                          
+Asadéra
+Asádo              
+Asaha
+Asuka              
+Avio               
+Aviõ
+
+Ch - ch 
+
+Cháta
+Chéke
+Chóke
+Chóto    
+
+G - g 
+
+Gála
+Galléta
+Gállo
+Garróte
+Gása
+Góma   
+
+E - e 
+
+Eláda
+Eladéra
+
+J - j 
+
+Jápa 
+Japura
+Jéta
+Júgo
+
+K - k 
+
+Kácho 
+Kadéna 
+Kámara 
+Kamiõ 
+Káña 
+Kapa 
+Kapílla
+Karácha (quechuismo) 
+Karóna
+Karra 
+Karréta 
+Karretílla 
+Kárro 
+Káso 
+Káusa 
+Kerída 
+Kopi
+Kucharóna
+
+L - l
+
+Lampĩu
+Lápi
+Lénte
+Lénto
+Lóma
+Lómo
+
+M - m
+
+Mamóne
+Manda
+Mangea 
+Mánta 
+Mañéro 
+Maravichu 
+Máta 
+Monda 
+Montúra 
+Móño
+
+Ñ - ñ 
+
+Ñekarama 
+
+O - o 
+
+Ólla
+Óro
+
+P - p 
+
+Páila 
+Pála 
+Páso 
+Patula 
+Páva 
+Pavi 
+Pelóta 
+Perõ 
+Péro 
+Péso 
+Pikána 
+Pikéte
+Pita (quechuismo) 
+Púa
+Púnto 
+Púta 
+Púto
+
+R - r
+ 
+Rambosa
+
+S - s 
+
+Sái 
+Sandia 
+Sánto 
+Santoro 
+Sapatu 
+Saporo 
+Sarapĩu 
+Savana 
+Sérro 
+Sesína
+Sevói 
+Sigarríllo 
+Sigárro 
+Sínto 
+Sílla
+
+T - t 
+
+Téle 
+Tirísia
+Tomáte (Nahualtismo) 
+Topa
+Topeta
+Tóro
+Torúno
+
+V - v
+
+Vaka
+Vakílla
+Vale 
+Válle 
+Vandída 
+Vandído 
+Váso 
+Vela 
+Vende 
+Vichea 
+Vícho 
+Víno 
+Vóla 
+Volánte 
+Volea 
+Volícho 
+Vosa 
+Votõ 
+Vóto
+
+18.  El tratamiento de los nombres propios debe excluir la traducción y conservar la grafía tal como se los ha registrado. En estos casos también se usan guiones al agregarles los morfemas de la lengua guaraní.
+Ejemplos:
+Aháta España-pe. (Voy a España).
+Rejuhúta Facebook-pe. (Lo encontrarás en Facebook). 
+Oñe’ẽkuri Leticia-te. (Habló de Leticia).
+
+19. Se recomienda utilizar la denominación de los números en guaraní, sean estos numerales ordinales o cardinales. 
+Ejemplos:
+Po su (cinco mil). 
+Mokõipa su (veinte mil). 
+Sa su (cien mil).
+Irundyha (cuarto) 
+Mokõpaha (vigésimo)
+
+20. Se recomienda respetar las traducciones de nombres de instituciones estatales y de otros sectores que se ocupan de implementar el uso oficial de la lengua guaraní, en el tratamiento de los términos propios del dominio administrativo, que fueron validadas por la Academia de la Lengua Guaraní.
+Ejemplos:
+Ñe’ẽnguéra. Ñembohape Renda: Unidad de Asuntos Lingüísticos.
+Pytyvõhapavẽ: Secretaría General.
+Motenondeha: Ministerio.
+Sãmbyhyha: Secretaría Ejecutiva.
+
+22.  El verbo existencial "ser" tiene una expresión particular en guaraní: se puede expresar a través de una secuencia nominal.
+Ejemplos:
+Che Mario (Yo soy Mario).
+Che karai Mario ra’y (Yo soy el hijo de don Mario).
+
+23. El verbo aguereko (areko), como expresión de una relación de posesión requiere un tratamiento particular. La forma: Ha’e oguereko (oreko) heta pirapire es un calco sintáctico del español y la expresión correcta debe ser: Ha’e ipirapire heta.
+24. Se consideran expresiones ya incorporadas en el uso de la lengua guaraní, algunas que se han transfonetizado o compuestas con palabras del castellano y del guaraní combinadas.
+Ejemplos: Tuka’é (juego tradicional), constituido por: tú+caes; ovetã (ventana), constituido por: óga+ventana; simapéna (despreocupado/da), constituido por: sin+más+pena; paranáda (inútil, desprolijo/a), constituido por: para+nada.
+El caso de "ensuguy" (hipócrita), constituido por: en + su + guy (el que tiene en su interior algo escondido), expresión frecuentemente utilizada en la oralidad, se corresponde con expresiones con raíces del guaraní.
+Ejemplo:  ijapeguypegua,  tekoñemi,  tovamokõi.  Se recomienda promover el enriquecimiento léxico por sinonimia.
+
+
+
+ORIENTACIONES BÁSICAS PARA LA ESCRITURA DE LOS NOMBRES TOPÓNIMOS EN LENGUA GUARANÍ 29/03/23
+1.  Los topónimos en lengua guaraní serán escritos con el alfabeto propio de la lengua, de conformidad con el Art. 21 de la Ley 4251/10, De Lenguas y las normas ortográficas establecidas por la Academia de la Lengua Guarani, 10.08.2016.
+2.  En el caso de los topónimos cuya composición tenga uno o varios préstamos integrados y que ya estén incorporados en el Diccionario de la Lengua Guaraní de la ALG, se respetará la grafia oficial de la lengua receptora.
+Ejemplos: 
+Serromemby / Vakahũ
+3. En el caso de que un topónimo esté constituido por un extranjerismo o préstamo no integrado y un morfema prefijo o sufijo del guaraní, se unirá con un guion, tal como se establece en el punto 18 "Orientaciones básicas para la escritura en lengua guaraní" de la Academia de la Lengua Guaraní.
+Ejemplos:
+Alemán-kue / Sanguina-kue
+4. En los casos de topónimos en guaraní que incorporan morfema de otra lengua, transgrediendo el sistema de silabación guaraní, se asumirá como un caso excepcional por el arraigo de la tradición oral y escrita y se respetara la escritura actual, manteniendo su escritura en una sola palabra.
+Ejemplos:
+Takuáras / Takuaríta / Yaguarón
+5. Para el caso específico del topónimo "Azotey", se asumirá como un préstamo integrado y se adecuará la escritura a las normas establecidas para la lengua.
+Ejemplo: Asotey.
+
+1
+
+
