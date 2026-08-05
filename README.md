@@ -1,91 +1,90 @@
-# Adaptación morfológica del guaraní con Few-shot y RAG
+# Guaraní Morphological Adaptation Using Few-Shot Learning and RAG
 
-Este repositorio contiene un pipeline experimental para generar adaptaciones
-morfológicas en guaraní. El sistema combina ejemplos *few-shot*, recuperación de
-información gramatical mediante RAG y un modelo de lenguaje configurable.
+This repository contains an experimental pipeline for generating morphological
+adaptations in Guaraní. The system combines *few-shot* examples, grammatical
+information retrieval using RAG, and a configurable language model.
 
-## Estructura del repositorio
+## Repository Structure
 
-| Ruta | Descripción |
+| Path | Description |
 | --- | --- |
-| `guaranidb.py` | Divide el corpus gramatical y crea una base vectorial Chroma. |
-| `fewshot_rag_with_grammar.py` | Ejecuta la recuperación RAG, genera predicciones y calcula las métricas. |
-| `data/guarani.txt` | Corpus gramatical utilizado para construir la base vectorial. |
-| `data/guarani-train.tsv` | Conjunto de entrenamiento; debe añadirse antes de ejecutar el pipeline. |
-| `data/guarani-dev.tsv` | Conjunto de desarrollo; debe añadirse antes de ejecutar el pipeline. |
-| `.env.example` | Plantilla de configuración sin credenciales. |
-| `requirements.txt` | Dependencias de Python. |
+| `guaranidb.py` | Splits the grammar corpus and creates a Chroma vector database. |
+| `fewshot_rag_with_grammar.py` | Performs RAG retrieval, generates predictions, and computes the metrics. |
+| `data/guarani.txt` | Grammar corpus used to build the vector database. |
+| `data/guarani-train.tsv` | Training dataset; it must be added before running the pipeline. |
+| `data/guarani-dev.tsv` | Development dataset; it must be added before running the pipeline. |
+| `.env.example` | Configuration template without credentials. |
+| `requirements.txt` | Python dependencies. |
 
-Las carpetas `guarani_db/` y `resultados/` son generadas localmente y no se
-suben a GitHub.
+The `guarani_db/` and `resultados/` directories are generated locally and are
+not uploaded to GitHub.
 
-## Requisitos
+## Requirements
 
-- Python 3.10 o posterior.
-- Una clave de OpenAI para la etapa RAG.
-- Una clave para el proveedor que generará las predicciones. Si se selecciona
-  OpenAI, la misma clave puede utilizarse en ambas etapas.
-- Los conjuntos `guarani-train.tsv` y `guarani-dev.tsv`.
+- Python 3.10 or later.
+- An OpenAI API key for the RAG stage.
+- An API key for the provider that will generate the predictions. If OpenAI is
+  selected, the same key can be used for both stages.
+- The `guarani-train.tsv` and `guarani-dev.tsv` datasets.
 
-Los archivos TSV deben estar separados por tabulaciones e incluir estas
-columnas:
+The TSV files must be tab-separated and include the following columns:
 
 ```text
 ID	Source	Change	Target
 ```
 
-## Instalación
+## Installation
 
-1. Clone el repositorio y entre en su carpeta:
+1. Clone the repository and navigate to its directory:
 
    ```bash
-   git clone https://github.com/USUARIO/NOMBRE-DEL-REPOSITORIO.git
-   cd NOMBRE-DEL-REPOSITORIO
+   git clone https://github.com/USERNAME/REPOSITORY-NAME.git
+   cd REPOSITORY-NAME
    ```
 
-2. Cree y active un entorno virtual:
+2. Create and activate a virtual environment:
 
-   En Linux o macOS:
+   On Linux or macOS:
 
    ```bash
    python3 -m venv .venv
    source .venv/bin/activate
    ```
 
-   En Windows PowerShell:
+   In Windows PowerShell:
 
    ```powershell
    py -m venv .venv
    .venv\Scripts\Activate.ps1
    ```
 
-3. Instale las dependencias:
+3. Install the dependencies:
 
    ```bash
    python -m pip install --upgrade pip
    pip install -r requirements.txt
    ```
 
-4. Copie la plantilla de configuración:
+4. Copy the configuration template:
 
-   En Linux o macOS:
+   On Linux or macOS:
 
    ```bash
    cp .env.example .env
    ```
 
-   En Windows PowerShell:
+   In Windows PowerShell:
 
    ```powershell
    Copy-Item .env.example .env
    ```
 
-5. Abra `.env`, seleccione un proveedor y complete las claves necesarias. No
-   suba este archivo a GitHub.
+5. Open `.env`, select a provider, and add the required API keys. Do not upload
+   this file to GitHub.
 
-## Configuración de proveedores
+## Provider Configuration
 
-| `PROVIDER` | Variable de la clave |
+| `PROVIDER` | API Key Variable |
 | --- | --- |
 | `OPENAI` | `OPENAI_API_KEY` |
 | `GEMINI` | `GOOGLE_API_KEY` |
@@ -94,13 +93,13 @@ ID	Source	Change	Target
 | `DEEPSEEK` | `DEEPSEEK_API_KEY` |
 | `ANTHROPIC` | `ANTHROPIC_API_KEY` |
 
-La recuperación RAG utiliza OpenAI independientemente del proveedor elegido
-para las predicciones. Por eso `OPENAI_API_KEY` es obligatoria en todos los
-casos. Los nombres de los modelos pueden modificarse en `.env`.
+RAG retrieval uses OpenAI regardless of the provider selected for generating
+predictions. Therefore, `OPENAI_API_KEY` is required in all cases. Model names
+can be changed in `.env`.
 
-## Uso
+## Usage
 
-1. Coloque los archivos de datos en `data/`:
+1. Place the data files in `data/`:
 
    ```text
    data/
@@ -109,26 +108,26 @@ casos. Los nombres de los modelos pueden modificarse en `.env`.
    └── guarani-train.tsv
    ```
 
-2. Cree la base vectorial:
+2. Create the vector database:
 
    ```bash
    python guaranidb.py
    ```
 
-   El script genera `guarani_db/` con la colección Chroma `guarani`.
+   The script generates `guarani_db/` with the `guarani` Chroma collection.
 
-3. Ejecute el experimento:
+3. Run the experiment:
 
    ```bash
    python fewshot_rag_with_grammar.py
    ```
 
-El programa muestra BLEU, ChrF++ y exactitud, y guarda un TSV detallado dentro
-de `resultados/`.
+The program displays BLEU, ChrF++, and accuracy scores, and saves a detailed TSV
+file in `resultados/`.
 
-## Rutas personalizadas
+## Custom Paths
 
-Las rutas pueden cambiarse en `.env`:
+Paths can be changed in `.env`:
 
 ```dotenv
 DEV_PATH=data/guarani-dev.tsv
@@ -138,12 +137,13 @@ PERSIST_DIR=guarani_db
 OUTPUT_DIR=resultados
 ```
 
-`DEV_PATH` y `TRAIN_PATH` también aceptan una URL. Las rutas locales relativas
-se interpretan desde la carpeta del script.
+`DEV_PATH` and `TRAIN_PATH` also accept URLs. Relative local paths are resolved
+from the script directory.
 
-## Cómo publicar el repositorio en GitHub
+## Publishing the Repository on GitHub
 
-Después de crear un repositorio vacío en GitHub, ejecute desde esta carpeta:
+After creating an empty repository on GitHub, run the following commands from
+this directory:
 
 ```bash
 git init
@@ -151,22 +151,9 @@ git add .
 git status
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin https://github.com/USUARIO/NOMBRE-DEL-REPOSITORIO.git
+git remote add origin https://github.com/USERNAME/REPOSITORY-NAME.git
 git push -u origin main
 ```
 
-Revise `git status` antes del *commit* y confirme que `.env`, `guarani_db/` y
-`resultados/` no aparezcan en la lista.
-
-## Datos, atribución y licencia
-
-El archivo `data/guarani.txt` parece corresponder a *Gramática Guaraní y
-orientaciones básicas para la escritura de los nombres toponímicos en guaraní y
-otras terminologías*, 4.ª edición (2023). Antes de publicar el repositorio,
-verifique la fuente exacta, complete la referencia bibliográfica y confirme que
-dispone de permiso para redistribuir el texto. Haga la misma verificación para
-los conjuntos de entrenamiento y desarrollo.
-
-Este proyecto no incorpora todavía un archivo `LICENSE`. Antes de hacerlo
-público, elija una licencia para el código que sea compatible con los permisos
-de los datos y del corpus.
+Review `git status` before committing and confirm that `.env`, `guarani_db/`,
+and `resultados/` do not appear in the list.
