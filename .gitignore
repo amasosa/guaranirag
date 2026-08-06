@@ -19,3 +19,7 @@ resultados/
 .idea/
 .DS_Store
 Thumbs.db
+
+# AmericasNLP datasets obtained separately
+data/guarani-train.tsv
+data/guarani-dev.tsv
