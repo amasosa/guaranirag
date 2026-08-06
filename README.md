@@ -169,3 +169,26 @@ Servilibro, Paraguay, 2023.
 This file is not distributed and is not covered by the Creative Commons
 or MIT licenses of this repository. All rights in the source material
 remain with their respective copyright holders.
+
+## Generated vector database
+
+The `guarani_db/` directory is generated from the reference corpus and
+is not distributed by this repository.
+
+## AmericasNLP 2025 Shared Task 2 data
+
+This project requires the following datasets from the AmericasNLP 2025
+Shared Task 2:
+
+- `guarani-train.tsv`
+- `guarani-dev.tsv`
+
+Users must download both files directly from their original location:
+
+https://github.com/AmericasNLP/americasnlp2025/tree/main/ST2_EducationalMaterials/data
+
+After downloading them, place the files in the `data/` directory of this
+project.
+
+Users are responsible for complying with any terms, licenses, attribution
+requirements, or restrictions established by the dataset owners.
