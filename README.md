@@ -157,3 +157,15 @@ git push -u origin main
 
 Review `git status` before committing and confirm that `.env`, `guarani_db/`,
 and `resultados/` do not appear in the list.
+
+
+## Guarani reference corpus
+
+The file `guarani.txt` contains selected material derived from:
+
+Academia de la Lengua Guaraní. *Guarani Ñe’ẽtekuaa: Gramática Guarani*. 
+Servilibro, Paraguay, 2023.
+
+This file is not distributed and is not covered by the Creative Commons
+or MIT licenses of this repository. All rights in the source material
+remain with their respective copyright holders.
